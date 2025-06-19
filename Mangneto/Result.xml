@@ -1,0 +1,685 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+0,0,fonts.googleapis.com:443,,"Received fatal alert: certificate_unknown
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1274,0,0,0,null,0,0,0
+0,0,11945881.fls.doubleclick.net:443,,"Received fatal alert: certificate_unknown
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1274,0,0,0,null,0,0,0
+0,0,nocookie.avads.net:443,,"Received fatal alert: certificate_unknown
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1274,0,0,0,null,0,0,0
+0,0,nocookie.avads.net:443,,"Received fatal alert: certificate_unknown
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1274,0,0,0,null,0,0,0
+0,0,monitor.clickcease.com:443,,"Received fatal alert: certificate_unknown
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1274,0,0,0,null,0,0,0
+0,0,ad.doubleclick.net:443,,"Received fatal alert: certificate_unknown
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1274,0,0,0,null,0,0,0
+0,0,ad.doubleclick.net:443,,"Received fatal alert: certificate_unknown
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1274,0,0,0,null,0,0,0
+0,0,api.demo.prestashop.com:443,,"Received fatal alert: certificate_unknown
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1274,0,0,0,null,0,0,0
+0,0,demo.prestashop.com:443,,"Received fatal alert: certificate_unknown
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1274,0,0,0,null,0,0,0
+0,0,demo.prestashop.com:443,,"Received fatal alert: certificate_unknown
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1274,0,0,0,null,0,0,0
+0,0,demo.prestashop.com:443,,"Received fatal alert: certificate_unknown
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1274,0,0,0,null,0,0,0
+0,0,fonts.gstatic.com:443,,"Received fatal alert: certificate_unknown
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1274,0,0,0,null,0,0,0
+0,0,fo.demo.prestashop.com:443,,"Received fatal alert: certificate_unknown
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1274,0,0,0,null,0,0,0
+0,0,nocookie.avads.net:443,,"Broken pipe
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,2219,0,0,0,null,0,0,0
+0,0,ad.doubleclick.net:443,,"Broken pipe
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,2219,0,0,0,null,0,0,0
+0,0,api.demo.prestashop.com:443,,"Broken pipe
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,2219,0,0,0,null,0,0,0
+0,0,monitor.clickcease.com:443,,"Broken pipe
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,2219,0,0,0,null,0,0,0
+0,0,fonts.gstatic.com:443,,"Broken pipe
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,2219,0,0,0,null,0,0,0
+0,0,fo.demo.prestashop.com:443,,"Broken pipe
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,2219,0,0,0,null,0,0,0
+0,0,www.google.com:443,,"Received fatal alert: certificate_unknown
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1274,0,0,0,null,0,0,0
+0,0,www.google.com:443,,"Received fatal alert: certificate_unknown
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1274,0,0,0,null,0,0,0
+0,0,demo.prestashop.com:443,,"Received fatal alert: certificate_unknown
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1274,0,0,0,null,0,0,0
+0,0,demo.prestashop.com:443,,"Broken pipe
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,2219,0,0,0,null,0,0,0
+0,0,demo.prestashop.com:443,,"Connection reset
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1406,0,0,0,null,0,0,0
+0,0,demo.prestashop.com:443,,"Connection reset
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1406,0,0,0,null,0,0,0
+0,0,gateway.icloud.com:443,,"Remote host terminated the handshake
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1390,0,0,0,null,0,0,0
+0,0,gateway.icloud.com:443,,"Connection reset
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1406,0,0,0,null,0,0,0
+0,0,gateway.icloud.com:443,,"Client requested protocol TLSv1 is not enabled or supported in server context
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1935,0,0,0,null,0,0,0
+0,0,setup.icloud.com:443,,"Connection reset
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1406,0,0,0,null,0,0,0
+0,0,setup.icloud.com:443,,"Connection reset
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1406,0,0,0,null,0,0,0
+0,0,setup.icloud.com:443,,"Client requested protocol TLSv1 is not enabled or supported in server context
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1935,0,0,0,null,0,0,0
+0,0,gsa.apple.com:443,,"Received fatal alert: certificate_unknown
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1274,0,0,0,null,0,0,0
+0,0,gsa.apple.com:443,,"Connection reset
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1406,0,0,0,null,0,0,0
+0,0,gsa.apple.com:443,,"Connection reset
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1406,0,0,0,null,0,0,0
+0,0,p145-caldav.icloud.com:443,,"Connection reset
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1406,0,0,0,null,0,0,0
+0,0,p145-caldav.icloud.com:443,,"Remote host terminated the handshake
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1390,0,0,0,null,0,0,0
+0,0,p145-caldav.icloud.com:443,,"Client requested protocol TLSv1 is not enabled or supported in server context
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1935,0,0,0,null,0,0,0
+0,0,p145-caldav.icloud.com:443,,"Connection reset
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1406,0,0,0,null,0,0,0
+0,0,p145-caldav.icloud.com:443,,"Remote host terminated the handshake
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1390,0,0,0,null,0,0,0
+0,0,p145-caldav.icloud.com:443,,"Client requested protocol TLSv1 is not enabled or supported in server context
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1935,0,0,0,null,0,0,0
+0,0,gateway.icloud.com:443,,"Connection reset
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1406,0,0,0,null,0,0,0
+0,0,gateway.icloud.com:443,,"Connection reset
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1406,0,0,0,null,0,0,0
+0,0,gateway.icloud.com:443,,"Client requested protocol TLSv1 is not enabled or supported in server context
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1935,0,0,0,null,0,0,0
+0,0,calendar.google.com:443,,"Remote host terminated the handshake
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1390,0,0,0,null,0,0,0
+0,0,calendar.google.com:443,,"Connection reset
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1406,0,0,0,null,0,0,0
+0,0,calendar.google.com:443,,"Client requested protocol TLSv1 is not enabled or supported in server context
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1935,0,0,0,null,0,0,0
+0,0,p145-caldav.icloud.com:443,,"Remote host terminated the handshake
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1390,0,0,0,null,0,0,0
+0,0,calendar.google.com:443,,"Remote host terminated the handshake
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1390,0,0,0,null,0,0,0
+0,0,p145-caldav.icloud.com:443,,"Connection reset
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1406,0,0,0,null,0,0,0
+0,0,p145-caldav.icloud.com:443,,"Client requested protocol TLSv1 is not enabled or supported in server context
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1935,0,0,0,null,0,0,0
+0,0,calendar.google.com:443,,"Remote host terminated the handshake
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1390,0,0,0,null,0,0,0
+0,0,calendar.google.com:443,,"Client requested protocol TLSv1 is not enabled or supported in server context
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1935,0,0,0,null,0,0,0
+0,0,p145-caldav.icloud.com:443,,"Connection reset
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1406,0,0,0,null,0,0,0
+0,0,p145-caldav.icloud.com:443,,"Connection reset
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1406,0,0,0,null,0,0,0
+0,0,p145-caldav.icloud.com:443,,"Client requested protocol TLSv1 is not enabled or supported in server context
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1935,0,0,0,null,0,0,0
+0,0,gateway.icloud.com:443,,"Connection reset
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1406,0,0,0,null,0,0,0
+0,0,gateway.icloud.com:443,,"Connection reset
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1406,0,0,0,null,0,0,0
+0,0,gateway.icloud.com:443,,"Client requested protocol TLSv1 is not enabled or supported in server context
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1935,0,0,0,null,0,0,0
+1750228309221,238,/WebObjects/VCInit.woa/wa/getBag-1,200,OK,,text,true,,15410,232,0,0,https://init.ess.apple.com/WebObjects/VCInit.woa/wa/getBag?ix=3,237,0,173
+0,0,query.ess.apple.com:443,,"Connection reset
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1406,0,0,0,null,0,0,0
+1750228311630,215,/WebObjects/VCInit.woa/wa/getBag-2,200,OK,,text,true,,15410,232,0,0,https://init.ess.apple.com/WebObjects/VCInit.woa/wa/getBag?ix=3,215,0,151
+1750228312781,277,/extra/cmp/cmp-gdpr.js-3,307,Temporary Redirect,,text,true,,562,446,0,0,https://fstatic.netpub.media/extra/cmp/cmp-gdpr.js,277,0,202
+1750228312789,327,/extra/cmp/cmp-gdpr.js-4,307,Temporary Redirect,,text,true,,562,450,0,0,https://fstatic.netpub.media/extra/cmp/cmp-gdpr.js?v=1,327,0,159
+0,0,query.ess.apple.com:443,,"Broken pipe
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,2219,0,0,0,null,0,0,0
+0,0,api-safari-aaps1b.smoot.apple.com:443,,"Broken pipe
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,2219,0,0,0,null,0,0,0
+0,0,fstatic.netpub.media:443,,"Broken pipe
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,2219,0,0,0,null,0,0,0
+0,0,magento.softwaretestingboard.com:443,,"Remote host terminated the handshake
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1390,0,0,0,null,0,0,0
+1750228313969,1420,/-5,200,OK,,text,true,,18184,1353,0,0,https://magento.softwaretestingboard.com/,1420,0,223
+1750228315449,184,/static/3a43a75f8d42842cbc75ec620d78b061.min.js-6,301,Moved Permanently,,text,true,,531,485,0,0,https://fstatic.netpub.media/static/3a43a75f8d42842cbc75ec620d78b061.min.js?1750228315440,184,0,99
+1750228315642,433,/r/3a43a75f8d42842cbc75ec620d78b061/service.js-7,302,Found,,text,true,,764,470,0,0,https://fstatic.netpub.media/r/3a43a75f8d42842cbc75ec620d78b061/service.js,433,0,119
+1750228316085,129,/r/3a43a75f8d42842cbc75ec620d78b061/44850572.js-8,200,OK,,text,true,,780,508,0,0,https://fstatic.netpub.media/r/3a43a75f8d42842cbc75ec620d78b061/44850572.js?npr=4d6963eadc22b266bcb9ab8da938091a,123,0,69
+1750228317040,589,/17502283162310.385841856826179/run.js-10,200,OK,,text,true,,535,491,0,0,https://gpp.netpub.media/17502283162310.385841856826179/run.js?v=17502283162310.385841856826179,589,0,195
+1750228317032,597,/17502283154400.425879253187049/run.js-9,200,OK,,text,true,,535,491,0,0,https://gpp.netpub.media/17502283154400.425879253187049/run.js?v=17502283154400.425879253187049,597,0,203
+0,0,ghb.console.adtarget.com.tr:443,,"Broken pipe
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,2219,0,0,0,null,0,0,0
+1750228318216,2032,/v2/auction/-11,200,OK,,text,true,,1720,1707,0,0,https://ghb1.adtelligent.com/v2/auction/,2032,0,807
+0,0,ghb.adtelligent.com:443,,"Broken pipe
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,2219,0,0,0,null,0,0,0
+0,0,onetag-sys.com:443,,"Broken pipe
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,2219,0,0,0,null,0,0,0
+0,0,ad.360yield.com:443,,"Broken pipe
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,2219,0,0,0,null,0,0,0
+0,0,gateway.icloud.com:443,,"Connection reset
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1406,0,0,0,null,0,0,0
+0,0,gateway.icloud.com:443,,"Connection reset
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1406,0,0,0,null,0,0,0
+0,0,gateway.icloud.com:443,,"Client requested protocol TLSv1 is not enabled or supported in server context
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1935,0,0,0,null,0,0,0
+0,0,pbjs.e-planning.net:443,,"Broken pipe
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,2219,0,0,0,null,0,0,0
+0,0,prebid.a-mo.net:443,,"Broken pipe
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,2219,0,0,0,null,0,0,0
+0,0,hb-api.omnitagjs.com:443,,"Broken pipe
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,2219,0,0,0,null,0,0,0
+0,0,query.ess.apple.com:443,,"Remote host terminated the handshake
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1390,0,0,0,null,0,0,0
+1750228327986,288,/localstore.js-12,304,Not Modified,,,true,,852,535,0,0,https://script.4dex.io/localstore.js,0,0,225
+1750228328292,150,/a/latest/adagio.js-13,304,Not Modified,,,true,,978,586,0,0,https://script.4dex.io/a/latest/adagio.js,0,0,82
+0,0,gateway.icloud.com:443,,"Connection reset
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1406,0,0,0,null,0,0,0
+0,0,gateway.icloud.com:443,,"Remote host terminated the handshake
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1390,0,0,0,null,0,0,0
+0,0,gateway.icloud.com:443,,"Client requested protocol TLSv1 is not enabled or supported in server context
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1935,0,0,0,null,0,0,0
+0,0,id.a-mx.com:443,,"Broken pipe
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,2219,0,0,0,null,0,0,0
+1750228328297,1174,/apple-touch-icon-precomposed.png-14,404,Not Found,,text,false,,14941,300,0,0,https://magento.softwaretestingboard.com/apple-touch-icon-precomposed.png,1174,0,222
+1750228329840,375,/prebid-request-28,200,OK,,text,true,,546,3519,0,0,https://onetag-sys.com/prebid-request,375,0,225
+1750228329831,384,/prebid-request-22,200,OK,,text,true,,546,3524,0,0,https://onetag-sys.com/prebid-request,384,0,234
+1750228329837,406,/hb-api/prebid/v1?RefererUrl=https%3A%2F%2Fmagento.softwaretestingboard.com%2F&PageUrl=https%3A%2F%2Fmagento.softwaretestingboard.com%2F&PageReferrer=https%3A%2F%2Fmagento.softwaretestingboard.com%2F-25,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,,text,false,,2746,0,0,0,https://hb-api.omnitagjs.com/hb-api/prebid/v1?RefererUrl=https%3A%2F%2Fmagento.softwaretestingboard.com%2F&PageUrl=https%3A%2F%2Fmagento.softwaretestingboard.com%2F&PageReferrer=https%3A%2F%2Fmagento.softwaretestingboard.com%2F,0,0,406
+1750228329836,407,/a/c-24,204,No Content,,,true,,863,2501,0,0,https://prebid.a-mo.net/a/c,0,0,237
+1750228329823,492,/hb-api/prebid/v1?RefererUrl=https%3A%2F%2Fmagento.softwaretestingboard.com%2F&PageUrl=https%3A%2F%2Fmagento.softwaretestingboard.com%2F&PageReferrer=https%3A%2F%2Fmagento.softwaretestingboard.com%2F-18,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,,text,false,,2746,0,0,0,https://hb-api.omnitagjs.com/hb-api/prebid/v1?RefererUrl=https%3A%2F%2Fmagento.softwaretestingboard.com%2F&PageUrl=https%3A%2F%2Fmagento.softwaretestingboard.com%2F&PageReferrer=https%3A%2F%2Fmagento.softwaretestingboard.com%2F,0,0,492
+1750228329824,492,/a/c-17,204,No Content,,,true,,863,2505,0,0,https://prebid.a-mo.net/a/c,0,0,317
+1750228329838,718,/2447/pb-26,204,No Content,,text,true,,606,1906,0,0,https://ad.360yield.com/2447/pb,0,0,405
+1750228329827,851,/2447/pb-20,204,No Content,,text,true,,606,1907,0,0,https://ad.360yield.com/2447/pb,0,0,416
+1750228329819,861,/pbjs/1/bd3d2/1/magento.softwaretestingboard.com/ROS-16,302,Moved Temporarily,,text,true,,2311,1271,0,0,https://pbjs.e-planning.net/pbjs/1/bd3d2/1/magento.softwaretestingboard.com/ROS?rnd=0.2231883642629482&e=300x250_0%3A300x250%2C728x90%2C970x250%2C970x90%2C200x200%2C250x250%2C336x280%2C678x60%2C700x300%2C870x200%2C1050x300%7C0.04&ur=https%3A%2F%2Fmagento.softwaretestingboard.com%2F&pbv=8.52.2&ncb=1&vs=F&crs=UTF-8&fr=https%3A%2F%2Fmagento.softwaretestingboard.com%2F&e_criteoId=Y_Q6JF9PODQzSlFrNTlrNlpOdHV3SDY0YmMwJTJCUGFSM01yTmFUZ3JvZzE3Sll2dW1BenZ6Z2dkSXBBQjZxYWtlZm1BSDMxTExnUlhKaWtnJTJCTDNnZWxxYjdpVWQ5akhpaEtORE00TFd0am9EVG92Q0ElM0Q&e_id5id=%257B%2522uid%2522%253A%2522ID5*BB_wDzAxApt_iWLfN9ceCHEcMH3m9C6a40NidSiaejImdh__LRJo5K7fjIJ-udK2%2522%252C%2522ext%2522%253A%257B%2522linkType%2522%253A1%252C%2522pba%2522%253A%2522C95x9t5%252FRjEkT4KusXmd4dCXFNEWV54S%252BqjydMzW%252FZc%253D%2522%257D%257D,861,0,578
+1750228329839,897,/pbjs/1/bd3d2/1/magento.softwaretestingboard.com/ROS-27,302,Moved Temporarily,,text,true,,2309,1270,0,0,https://pbjs.e-planning.net/pbjs/1/bd3d2/1/magento.softwaretestingboard.com/ROS?rnd=0.2231883642629482&e=300x250_0%3A300x250%2C728x90%2C970x90%2C200x200%2C250x250%2C336x280%2C400x350%2C468x60%2C640x480%2C700x300%2C728x500%7C0.04&ur=https%3A%2F%2Fmagento.softwaretestingboard.com%2F&pbv=8.52.2&ncb=1&vs=F&crs=UTF-8&fr=https%3A%2F%2Fmagento.softwaretestingboard.com%2F&e_criteoId=Y_Q6JF9PODQzSlFrNTlrNlpOdHV3SDY0YmMwJTJCUGFSM01yTmFUZ3JvZzE3Sll2dW1BenZ6Z2dkSXBBQjZxYWtlZm1BSDMxTExnUlhKaWtnJTJCTDNnZWxxYjdpVWQ5akhpaEtORE00TFd0am9EVG92Q0ElM0Q&e_id5id=%257B%2522uid%2522%253A%2522ID5*BB_wDzAxApt_iWLfN9ceCHEcMH3m9C6a40NidSiaejImdh__LRJo5K7fjIJ-udK2%2522%252C%2522ext%2522%253A%257B%2522linkType%2522%253A1%252C%2522pba%2522%253A%2522C95x9t5%252FRjEkT4KusXmd4dCXFNEWV54S%252BqjydMzW%252FZc%253D%2522%257D%257D,897,0,567
+1750228329669,1169,/apple-touch-icon.png-15,404,Not Found,,text,false,,14946,340,0,0,https://magento.softwaretestingboard.com/apple-touch-icon.png,1169,0,228
+1750228329834,1011,/v2/auction/-23,200,OK,,text,true,,949,1232,0,0,https://ghb.console.adtarget.com.tr/v2/auction/,1011,0,724
+0,0,script.4dex.io:443,,"Broken pipe
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,2219,0,0,0,null,0,0,0
+0,0,1x1.a-mo.net:443,,"Received fatal alert: certificate_unknown
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1274,0,0,0,null,0,0,0
+0,0,1x1.a-mo.net:443,,"Received fatal alert: certificate_unknown
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1274,0,0,0,null,0,0,0
+0,0,ad.360yield.com:443,,"Connection reset
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1406,0,0,0,null,0,0,0
+0,0,onetag-sys.com:443,,"Connection reset
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1406,0,0,0,null,0,0,0
+0,0,1x1.a-mo.net:443,,"Received fatal alert: certificate_unknown
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1274,0,0,0,null,0,0,0
+1750228329828,1057,/v2/auction/-21,200,OK,,text,true,,1730,1700,0,0,https://ghb.adtelligent.com/v2/auction/,1057,0,490
+1750228329823,1222,/v2/auction/-19,200,OK,,text,true,,951,1234,0,0,https://ghb.console.adtarget.com.tr/v2/auction/,1222,0,858
+1750228330866,873,/hb/1/bd3d2/1/magento.softwaretestingboard.com/ROS-30,200,OK,,text,true,,746,1230,0,0,https://pbjs.e-planning.net/hb/1/bd3d2/1/magento.softwaretestingboard.com/ROS?ct=1&r=pbjs&rnd=0.2231883642629482&e=300x250_0%3A300x250%2C728x90%2C970x250%2C970x90%2C200x200%2C250x250%2C336x280%2C678x60%2C700x300%2C870x200%2C1050x300%7C0.04&ur=https%3A%2F%2Fmagento.softwaretestingboard.com%2F&pbv=8.52.2&ncb=1&vs=F&crs=UTF-8&fr=https%3A%2F%2Fmagento.softwaretestingboard.com%2F&e_criteoId=Y_Q6JF9PODQzSlFrNTlrNlpOdHV3SDY0YmMwJTJCUGFSM01yTmFUZ3JvZzE3Sll2dW1BenZ6Z2dkSXBBQjZxYWtlZm1BSDMxTExnUlhKaWtnJTJCTDNnZWxxYjdpVWQ5akhpaEtORE00TFd0am9EVG92Q0ElM0Q&e_id5id=%257B%2522uid%2522%253A%2522ID5*BB_wDzAxApt_iWLfN9ceCHEcMH3m9C6a40NidSiaejImdh__LRJo5K7fjIJ-udK2%2522%252C%2522ext%2522%253A%257B%2522linkType%2522%253A1%252C%2522pba%2522%253A%2522C95x9t5%252FRjEkT4KusXmd4dCXFNEWV54S%252BqjydMzW%252FZc%253D%2522%257D%257D,873,0,536
+0,0,ghb2.adtelligent.com:443,,"Broken pipe
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,2219,0,0,0,null,0,0,0
+1750228330863,1964,/hb/1/bd3d2/1/magento.softwaretestingboard.com/ROS-29,200,OK,,text,true,,746,1229,0,0,https://pbjs.e-planning.net/hb/1/bd3d2/1/magento.softwaretestingboard.com/ROS?ct=1&r=pbjs&rnd=0.2231883642629482&e=300x250_0%3A300x250%2C728x90%2C970x90%2C200x200%2C250x250%2C336x280%2C400x350%2C468x60%2C640x480%2C700x300%2C728x500%7C0.04&ur=https%3A%2F%2Fmagento.softwaretestingboard.com%2F&pbv=8.52.2&ncb=1&vs=F&crs=UTF-8&fr=https%3A%2F%2Fmagento.softwaretestingboard.com%2F&e_criteoId=Y_Q6JF9PODQzSlFrNTlrNlpOdHV3SDY0YmMwJTJCUGFSM01yTmFUZ3JvZzE3Sll2dW1BenZ6Z2dkSXBBQjZxYWtlZm1BSDMxTExnUlhKaWtnJTJCTDNnZWxxYjdpVWQ5akhpaEtORE00TFd0am9EVG92Q0ElM0Q&e_id5id=%257B%2522uid%2522%253A%2522ID5*BB_wDzAxApt_iWLfN9ceCHEcMH3m9C6a40NidSiaejImdh__LRJo5K7fjIJ-udK2%2522%252C%2522ext%2522%253A%257B%2522linkType%2522%253A1%252C%2522pba%2522%253A%2522C95x9t5%252FRjEkT4KusXmd4dCXFNEWV54S%252BqjydMzW%252FZc%253D%2522%257D%257D,1963,0,517
+0,0,prebid.smilewanted.com:443,,"Broken pipe
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,2219,0,0,0,null,0,0,0
+0,0,ghb2.adtelligent.com:443,,"Broken pipe
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,2219,0,0,0,null,0,0,0
+0,0,prebid.smilewanted.com:443,,"Broken pipe
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,2219,0,0,0,null,0,0,0
+1750228334796,770,/OneCollector/1.0/?cors=true&content-type=application/x-json-stream&content-encoding=gzip-31,400,Exception while decoding the payload,,text,false,,577,7640,0,0,https://teams.events.data.microsoft.com/OneCollector/1.0/?cors=true&content-type=application/x-json-stream&content-encoding=gzip,769,0,503
+1750228335082,649,/hb-api/prebid/v1?RefererUrl=https%3A%2F%2Fmagento.softwaretestingboard.com%2F&PageUrl=https%3A%2F%2Fmagento.softwaretestingboard.com%2F&PageReferrer=https%3A%2F%2Fmagento.softwaretestingboard.com%2F-34,204,No Content,,,true,,98,1894,0,0,https://hb-api.omnitagjs.com/hb-api/prebid/v1?RefererUrl=https%3A%2F%2Fmagento.softwaretestingboard.com%2F&PageUrl=https%3A%2F%2Fmagento.softwaretestingboard.com%2F&PageReferrer=https%3A%2F%2Fmagento.softwaretestingboard.com%2F,0,0,450
+1750228335096,665,/hb-api/prebid/v1?RefererUrl=https%3A%2F%2Fmagento.softwaretestingboard.com%2F&PageUrl=https%3A%2F%2Fmagento.softwaretestingboard.com%2F&PageReferrer=https%3A%2F%2Fmagento.softwaretestingboard.com%2F-43,204,No Content,,,true,,98,1893,0,0,https://hb-api.omnitagjs.com/hb-api/prebid/v1?RefererUrl=https%3A%2F%2Fmagento.softwaretestingboard.com%2F&PageUrl=https%3A%2F%2Fmagento.softwaretestingboard.com%2F&PageReferrer=https%3A%2F%2Fmagento.softwaretestingboard.com%2F,0,0,454
+1750228335085,907,/v2/auction/-37,200,OK,,text,true,,1718,1702,0,0,https://ghb2.adtelligent.com/v2/auction/,905,0,585
+1750228335086,906,/v2/auction/-38,200,OK,,text,true,,1737,1702,0,0,https://ghb1.adtelligent.com/v2/auction/,904,0,570
+1750228335099,925,/v2/auction/-45,200,OK,,text,true,,948,1234,0,0,https://ghb.console.adtarget.com.tr/v2/auction/,924,0,613
+1750228335093,935,/pbjs/1/bd3d2/1/magento.softwaretestingboard.com/ROS-41,200,OK,,text,true,,746,1270,0,0,https://pbjs.e-planning.net/pbjs/1/bd3d2/1/magento.softwaretestingboard.com/ROS?rnd=0.2231883642629482&e=300x250_0%3A300x250%2C728x90%2C970x90%2C200x200%2C250x250%2C336x280%2C400x350%2C468x60%2C640x480%2C700x300%2C728x500%7C0.04&ur=https%3A%2F%2Fmagento.softwaretestingboard.com%2F&pbv=8.52.2&ncb=1&vs=F&crs=UTF-8&fr=https%3A%2F%2Fmagento.softwaretestingboard.com%2F&e_criteoId=Y_Q6JF9PODQzSlFrNTlrNlpOdHV3SDY0YmMwJTJCUGFSM01yTmFUZ3JvZzE3Sll2dW1BenZ6Z2dkSXBBQjZxYWtlZm1BSDMxTExnUlhKaWtnJTJCTDNnZWxxYjdpVWQ5akhpaEtORE00TFd0am9EVG92Q0ElM0Q&e_id5id=%257B%2522uid%2522%253A%2522ID5*BB_wDzAxApt_iWLfN9ceCHEcMH3m9C6a40NidSiaejImdh__LRJo5K7fjIJ-udK2%2522%252C%2522ext%2522%253A%257B%2522linkType%2522%253A1%252C%2522pba%2522%253A%2522C95x9t5%252FRjEkT4KusXmd4dCXFNEWV54S%252BqjydMzW%252FZc%253D%2522%257D%257D,930,0,520
+1750228335084,944,/v2/auction/-36,200,OK,,text,true,,950,1234,0,0,https://ghb.console.adtarget.com.tr/v2/auction/,939,0,626
+1750228335079,956,/pbjs/1/bd3d2/1/magento.softwaretestingboard.com/ROS-33,200,OK,,text,true,,746,1271,0,0,https://pbjs.e-planning.net/pbjs/1/bd3d2/1/magento.softwaretestingboard.com/ROS?rnd=0.2231883642629482&e=300x250_0%3A300x250%2C728x90%2C970x250%2C970x90%2C200x200%2C250x250%2C336x280%2C678x60%2C700x300%2C870x200%2C1050x300%7C0.04&ur=https%3A%2F%2Fmagento.softwaretestingboard.com%2F&pbv=8.52.2&ncb=1&vs=F&crs=UTF-8&fr=https%3A%2F%2Fmagento.softwaretestingboard.com%2F&e_criteoId=Y_Q6JF9PODQzSlFrNTlrNlpOdHV3SDY0YmMwJTJCUGFSM01yTmFUZ3JvZzE3Sll2dW1BenZ6Z2dkSXBBQjZxYWtlZm1BSDMxTExnUlhKaWtnJTJCTDNnZWxxYjdpVWQ5akhpaEtORE00TFd0am9EVG92Q0ElM0Q&e_id5id=%257B%2522uid%2522%253A%2522ID5*BB_wDzAxApt_iWLfN9ceCHEcMH3m9C6a40NidSiaejImdh__LRJo5K7fjIJ-udK2%2522%252C%2522ext%2522%253A%257B%2522linkType%2522%253A1%252C%2522pba%2522%253A%2522C95x9t5%252FRjEkT4KusXmd4dCXFNEWV54S%252BqjydMzW%252FZc%253D%2522%257D%257D,945,0,522
+1750228335097,1241,/prebid-request-44,200,OK,,text,true,,546,3521,0,0,https://onetag-sys.com/prebid-request,1241,0,1149
+1750228335083,1262,/prebid-request-35,200,OK,,text,true,,546,3524,0,0,https://onetag-sys.com/prebid-request,1262,0,1163
+1750228335100,1246,/-46,403,Forbidden,,text,false,,2034,1405,0,0,https://prebid.smilewanted.com/,1246,0,1152
+1750228335089,1271,/-39,403,Forbidden,,text,false,,2034,1407,0,0,https://prebid.smilewanted.com/,1271,0,1186
+1750228335095,1308,/a/c-42,204,No Content,,,true,,863,2503,0,0,https://prebid.a-mo.net/a/c,0,0,1180
+1750228335078,1346,/a/c-32,204,No Content,,,true,,863,2505,0,0,https://prebid.a-mo.net/a/c,0,0,1199
+1750228335101,1546,/2447/pb-47,204,No Content,,text,true,,606,1908,0,0,https://ad.360yield.com/2447/pb,0,0,1259
+1750228335090,1557,/2447/pb-40,204,No Content,,text,true,,606,1908,0,0,https://ad.360yield.com/2447/pb,0,0,1255
+1750228336671,1726,/customer/account/create/-48,200,OK,,text,true,,14571,1446,0,0,https://magento.softwaretestingboard.com/customer/account/create/,1726,0,227
+1750228338453,291,/extra/cmp/cmp-gdpr.js-49,307,Temporary Redirect,,text,true,,562,446,0,0,https://fstatic.netpub.media/extra/cmp/cmp-gdpr.js,290,0,203
+0,0,api-safari-aaps1b.smoot.apple.com:443,,"Connection reset
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1101,0,0,0,null,0,0,0
+1750228338762,676,/init.js-50,200,OK,,text,true,,791,428,0,0,https://gpp.netpub.media/init.js,631,0,144
+0,0,gateway.icloud.com:443,,"Connection reset
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1406,0,0,0,null,0,0,0
+0,0,gateway.icloud.com:443,,"Connection reset
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1406,0,0,0,null,0,0,0
+0,0,gateway.icloud.com:443,,"Client requested protocol TLSv1 is not enabled or supported in server context
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1935,0,0,0,null,0,0,0
+1750228339465,419,/17502283394410.275238694864147/run.js-51,200,OK,,text,true,,535,491,0,0,https://gpp.netpub.media/17502283394410.275238694864147/run.js?v=17502283394410.275238694864147,419,0,154
+0,0,query.ess.apple.com:443,,"Connection reset
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1406,0,0,0,null,0,0,0
+0,0,query.ess.apple.com:443,,"Connection reset
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1406,0,0,0,null,0,0,0
+0,0,gateway.icloud.com:443,,"Connection reset
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1406,0,0,0,null,0,0,0
+0,0,gateway.icloud.com:443,,"Connection reset
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1406,0,0,0,null,0,0,0
+0,0,gateway.icloud.com:443,,"Client requested protocol TLSv1 is not enabled or supported in server context
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1935,0,0,0,null,0,0,0
+1750228369362,1620,/customer/account/createpost/-52,302,Found,,text,true,,7118,2930,0,0,https://magento.softwaretestingboard.com/customer/account/createpost/,1620,0,228
+1750228371011,1419,/customer/account/create/-53,200,OK,,text,true,,15120,2416,0,0,https://magento.softwaretestingboard.com/customer/account/create/,1419,0,192
+1750228372473,2221,/extra/cmp/cmp-gdpr.js-54,307,Temporary Redirect,,text,true,,562,446,0,0,https://fstatic.netpub.media/extra/cmp/cmp-gdpr.js,2221,0,2146
+1750228374708,652,/init.js-56,200,OK,,text,true,,791,428,0,0,https://gpp.netpub.media/init.js,651,0,203
+1750228375373,425,/17502283753620.09225848058164521/run.js-57,200,OK,,text,true,,535,495,0,0,https://gpp.netpub.media/17502283753620.09225848058164521/run.js?v=17502283753620.09225848058164521,425,0,159
+1750228375846,214,/a-60,200,OK,,text,true,,618,843,0,0,https://www.googletagmanager.com/a?id=G-1SPG0WZDNF&v=3&t=t&pid=140066142&cv=2&rv=56g0&tc=12&tag_exp=101509157%7E103116026%7E103200004%7E103233427%7E103351869%7E103351871%7E104617979%7E104617981%7E104718208%7E104736445%7E104736447%7E104766476%7E104766478%7E104791495%7E104791497&es=1&e=gtag.config&eid=4&u=AAAAAAAI&epr=1G.3G&z=0,214,0,138
+1750228375850,222,/a-62,200,OK,,text,true,,618,851,0,0,https://www.googletagmanager.com/a?id=G-1SPG0WZDNF&v=3&t=t&pid=140066142&cv=2&rv=56g0&tc=12&tag_exp=101509157%7E103116026%7E103200004%7E103233427%7E103351869%7E103351871%7E104617979%7E104617981%7E104718208%7E104736445%7E104736447%7E104766476%7E104766478%7E104791495%7E104791497&es=1&e=*&eid=5&u=AAAAAAAIAAAAAIA&ut=Ag&h=Ag&epr=1G.2G&z=0,222,0,145
+1750228375849,223,/a-61,200,OK,,text,true,,618,847,0,0,https://www.googletagmanager.com/a?id=G-1SPG0WZDNF&v=3&t=t&pid=140066142&cv=2&rv=56g0&tc=12&tag_exp=101509157%7E103116026%7E103200004%7E103233427%7E103351869%7E103351871%7E104617979%7E104617981%7E104718208%7E104736445%7E104736447%7E104766476%7E104766478%7E104791495%7E104791497&es=1&e=gtm.dom&eid=6&u=AAAAAAAIAAAAAIA&ut=Ag&h=Ag&z=0,223,0,146
+1750228375813,274,/a-58,200,OK,,text,true,,618,1181,0,0,https://www.googletagmanager.com/a?id=G-1SPG0WZDNF&v=3&t=t&pid=140066142&cv=2&rv=56g0&tc=12&tag_exp=101509157%7E103116026%7E103200004%7E103233427%7E103351869%7E103351871%7E104617979%7E104617981%7E104718208%7E104736445%7E104736447%7E104766476%7E104766478%7E104791495%7E104791497&es=1&e=gtm.init&eid=2&tr=1ogtgasend.1ogtreferralexclusion.1ogtsessiontimeout.1ogt1pdatav2.1ccdgafirst.1setproductsettings.1ogtgooglesignals.1ccdgaregscope.1ccdconversionmarking.1ccdautoredact.1ccdgalast&ti=2ogtgasend.2ogtreferralexclusion.2ogtsessiontimeout.2ogt1pdatav2.2ccdgafirst.2setproductsettings.2ogtgooglesignals.2ccdgaregscope.2ccdconversionmarking.2ccdautoredact.2ccdgalast&z=0,274,0,182
+1750228372538,3550,/customer/section/load/-55,200,OK,,text,true,,18441,2314,0,0,https://magento.softwaretestingboard.com/customer/section/load/?sections=messages%2Ccustomer%2Ccompare-products%2Clast-ordered-items%2Ccart%2Cdirectory-data%2Ccaptcha%2Cinstant-purchase%2Cpersistent%2Creview%2Cwishlist%2Crecently_viewed_product%2Crecently_compared_product%2Cproduct_data_storage%2Cpaypal-billing-agreement&force_new_section_timestamp=false&_=1750228372478,3550,0,2212
+1750228375820,267,/a-59,200,OK,,text,true,,618,833,0,0,https://www.googletagmanager.com/a?id=G-1SPG0WZDNF&v=3&t=t&pid=140066142&cv=2&rv=56g0&tc=12&tag_exp=101509157%7E103116026%7E103200004%7E103233427%7E103351869%7E103351871%7E104617979%7E104617981%7E104718208%7E104736445%7E104736447%7E104766476%7E104766478%7E104791495%7E104791497&es=1&e=gtm.js&eid=3&tr=1gct&ti=1gct&z=0,267,0,175
+1750228376614,253,/a-63,200,OK,,text,true,,618,848,0,0,https://www.googletagmanager.com/a?id=G-1SPG0WZDNF&v=3&t=t&pid=140066142&cv=2&rv=56g0&tc=12&tag_exp=101509157%7E103116026%7E103200004%7E103233427%7E103351869%7E103351871%7E104617979%7E104617981%7E104718208%7E104736445%7E104736447%7E104766476%7E104766478%7E104791495%7E104791497&es=1&e=gtm.load&eid=7&u=AgAAAAAIAAAAAIA&ut=Ag&h=Ag&z=0,253,0,166
+0,0,query.ess.apple.com:443,,"Connection reset
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1406,0,0,0,null,0,0,0
+0,0,query.ess.apple.com:443,,"Connection reset
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1406,0,0,0,null,0,0,0
+1750228419285,439,/extra/cmp/cmp-gdpr.js-66,307,Temporary Redirect,,text,true,,562,450,0,0,https://fstatic.netpub.media/extra/cmp/cmp-gdpr.js?v=1,438,0,265
+1750228419276,974,/extra/cmp/cmp-gdpr.js-65,307,Temporary Redirect,,text,true,,562,446,0,0,https://fstatic.netpub.media/extra/cmp/cmp-gdpr.js,973,0,892
+1750228419251,1283,/-64,200,OK,,text,true,,18172,1941,0,0,https://magento.softwaretestingboard.com/,1282,0,288
+1750228420583,234,/static/3a43a75f8d42842cbc75ec620d78b061.min.js-67,301,Moved Permanently,,text,true,,531,485,0,0,https://fstatic.netpub.media/static/3a43a75f8d42842cbc75ec620d78b061.min.js?1750228420572,234,0,157
+1750228420583,485,/17502284205730.7969257841723796/run.js-68,200,OK,,text,true,,535,493,0,0,https://gpp.netpub.media/17502284205730.7969257841723796/run.js?v=17502284205730.7969257841723796,485,0,221
+1750228420827,420,/r/3a43a75f8d42842cbc75ec620d78b061/service.js-69,302,Found,,text,true,,764,470,0,0,https://fstatic.netpub.media/r/3a43a75f8d42842cbc75ec620d78b061/service.js,407,0,156
+1750228421262,248,/r/3a43a75f8d42842cbc75ec620d78b061/44850572.js-70,200,OK,,text,true,,778,508,0,0,https://fstatic.netpub.media/r/3a43a75f8d42842cbc75ec620d78b061/44850572.js?npr=4d6963eadc22b266bcb9ab8da938091a,248,0,153
+1750228421746,154,/-81,403,Forbidden,,text,false,,2034,1405,0,0,https://prebid.smilewanted.com/,154,0,96
+1750228421730,252,/prebid-request-75,200,OK,,text,true,,546,3520,0,0,https://onetag-sys.com/prebid-request,252,0,141
+1750228421544,440,/17502284215310.5706804432909047/run.js-71,200,OK,,text,true,,545,493,0,0,https://gpp.netpub.media/17502284215310.5706804432909047/run.js?v=17502284215310.5706804432909047,440,0,165
+1750228421737,248,/-76,403,Forbidden,,text,false,,2034,1407,0,0,https://prebid.smilewanted.com/,248,0,158
+1750228421716,334,/localstore.js-72,304,Not Modified,,,true,,890,535,0,0,https://script.4dex.io/localstore.js,0,0,211
+1750228421745,305,/prebid-request-80,200,OK,,text,true,,546,3518,0,0,https://onetag-sys.com/prebid-request,305,0,173
+1750228421729,340,/a/c-73,204,No Content,,,true,,863,2504,0,0,https://prebid.a-mo.net/a/c,0,0,221
+1750228421743,351,/a/c-78,204,No Content,,,true,,863,2502,0,0,https://prebid.a-mo.net/a/c,0,0,243
+1750228421758,406,/hb-api/prebid/v1?RefererUrl=https%3A%2F%2Fmagento.softwaretestingboard.com%2F&PageUrl=https%3A%2F%2Fmagento.softwaretestingboard.com%2F&PageReferrer=https%3A%2F%2Fmagento.softwaretestingboard.com%2F-86,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,,text,false,,2746,0,0,0,https://hb-api.omnitagjs.com/hb-api/prebid/v1?RefererUrl=https%3A%2F%2Fmagento.softwaretestingboard.com%2F&PageUrl=https%3A%2F%2Fmagento.softwaretestingboard.com%2F&PageReferrer=https%3A%2F%2Fmagento.softwaretestingboard.com%2F,0,0,406
+1750228421731,455,/hb-api/prebid/v1?RefererUrl=https%3A%2F%2Fmagento.softwaretestingboard.com%2F&PageUrl=https%3A%2F%2Fmagento.softwaretestingboard.com%2F&PageReferrer=https%3A%2F%2Fmagento.softwaretestingboard.com%2F-74,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,,text,false,,2746,0,0,0,https://hb-api.omnitagjs.com/hb-api/prebid/v1?RefererUrl=https%3A%2F%2Fmagento.softwaretestingboard.com%2F&PageUrl=https%3A%2F%2Fmagento.softwaretestingboard.com%2F&PageReferrer=https%3A%2F%2Fmagento.softwaretestingboard.com%2F,0,0,455
+1750228421738,695,/2447/pb-77,204,No Content,,text,true,,606,1907,0,0,https://ad.360yield.com/2447/pb,0,0,328
+1750228421757,676,/2447/pb-85,204,No Content,,text,true,,606,1906,0,0,https://ad.360yield.com/2447/pb,0,0,316
+1750228422076,476,/a/latest/adagio.js-89,304,Not Modified,,,true,,967,586,0,0,https://script.4dex.io/a/latest/adagio.js,0,0,358
+1750228421763,1003,/v2/auction/-88,200,OK,,text,true,,949,1233,0,0,https://ghb.console.adtarget.com.tr/v2/auction/,1003,0,672
+1750228421758,1023,/v2/auction/-87,200,OK,,text,true,,949,1233,0,0,https://ghb.console.adtarget.com.tr/v2/auction/,1023,0,677
+1750228421746,1055,/pbjs/1/bd3d2/1/magento.softwaretestingboard.com/ROS-82,200,OK,,text,true,,746,1272,0,0,https://pbjs.e-planning.net/pbjs/1/bd3d2/1/magento.softwaretestingboard.com/ROS?rnd=0.49931204549267527&e=300x250_0%3A300x250%2C728x90%2C970x250%2C970x90%2C200x200%2C250x250%2C336x280%2C678x60%2C700x300%2C870x200%2C1050x300%7C0.04&ur=https%3A%2F%2Fmagento.softwaretestingboard.com%2F&pbv=8.52.2&ncb=1&vs=F&crs=UTF-8&fr=https%3A%2F%2Fmagento.softwaretestingboard.com%2F&e_criteoId=Y_Q6JF9PODQzSlFrNTlrNlpOdHV3SDY0YmMwJTJCUGFSM01yTmFUZ3JvZzE3Sll2dW1BenZ6Z2dkSXBBQjZxYWtlZm1BSDMxTExnUlhKaWtnJTJCTDNnZWxxYjdpVWQ5akhpaEtORE00TFd0am9EVG92Q0ElM0Q&e_id5id=%257B%2522uid%2522%253A%2522ID5*BB_wDzAxApt_iWLfN9ceCHEcMH3m9C6a40NidSiaejImdh__LRJo5K7fjIJ-udK2%2522%252C%2522ext%2522%253A%257B%2522linkType%2522%253A1%252C%2522pba%2522%253A%2522C95x9t5%252FRjEkT4KusXmd4dCXFNEWV54S%252BqjydMzW%252FZc%253D%2522%257D%257D,1055,0,687
+1750228421755,1136,/pbjs/1/bd3d2/1/magento.softwaretestingboard.com/ROS-84,200,OK,,text,true,,746,1271,0,0,https://pbjs.e-planning.net/pbjs/1/bd3d2/1/magento.softwaretestingboard.com/ROS?rnd=0.49931204549267527&e=300x250_0%3A300x250%2C728x90%2C970x90%2C200x200%2C250x250%2C336x280%2C400x350%2C468x60%2C640x480%2C700x300%2C728x500%7C0.04&ur=https%3A%2F%2Fmagento.softwaretestingboard.com%2F&pbv=8.52.2&ncb=1&vs=F&crs=UTF-8&fr=https%3A%2F%2Fmagento.softwaretestingboard.com%2F&e_criteoId=Y_Q6JF9PODQzSlFrNTlrNlpOdHV3SDY0YmMwJTJCUGFSM01yTmFUZ3JvZzE3Sll2dW1BenZ6Z2dkSXBBQjZxYWtlZm1BSDMxTExnUlhKaWtnJTJCTDNnZWxxYjdpVWQ5akhpaEtORE00TFd0am9EVG92Q0ElM0Q&e_id5id=%257B%2522uid%2522%253A%2522ID5*BB_wDzAxApt_iWLfN9ceCHEcMH3m9C6a40NidSiaejImdh__LRJo5K7fjIJ-udK2%2522%252C%2522ext%2522%253A%257B%2522linkType%2522%253A1%252C%2522pba%2522%253A%2522C95x9t5%252FRjEkT4KusXmd4dCXFNEWV54S%252BqjydMzW%252FZc%253D%2522%257D%257D,1136,0,679
+1750228421748,1182,/v2/auction/-83,200,OK,,text,true,,1737,1702,0,0,https://ghb.adtelligent.com/v2/auction/,1166,0,687
+1750228422776,244,/extra/cmp/cmp-gdpr.js-91,307,Temporary Redirect,,text,true,,562,446,0,0,https://fstatic.netpub.media/extra/cmp/cmp-gdpr.js,244,0,158
+1750228421743,1282,/v2/auction/-79,200,OK,,text,true,,1740,1701,0,0,https://ghb1.adtelligent.com/v2/auction/,1278,0,448
+0,0,mp.4dex.io:443,,"Broken pipe
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,2219,0,0,0,null,0,0,0
+1750228422771,1920,/customer/account/create/-90,200,OK,,text,true,,14580,2033,0,0,https://magento.softwaretestingboard.com/customer/account/create/,1920,0,275
+1750228424755,410,/17502284247440.43941366191361975/run.js-92,200,OK,,text,true,,535,495,0,0,https://gpp.netpub.media/17502284247440.43941366191361975/run.js?v=17502284247440.43941366191361975,410,0,145
+0,0,query.ess.apple.com:443,,"Connection reset
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1406,0,0,0,null,0,0,0
+1750228439280,893,/WebObjects/VCInit.woa/wa/getBag-93,200,OK,,text,true,,15410,232,0,0,https://init.ess.apple.com/WebObjects/VCInit.woa/wa/getBag?ix=3,891,0,194
+0,0,query.ess.apple.com:443,,"Remote host terminated the handshake
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1390,0,0,0,null,0,0,0
+1750228443496,230,/bag-94,200,OK,,text,true,,16783,206,0,0,https://init-p01md.apple.com/bag?ix=2,230,0,182
+0,0,query.ess.apple.com:443,,"Connection reset
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1406,0,0,0,null,0,0,0
+0,0,query.ess.apple.com:443,,"Connection reset
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1406,0,0,0,null,0,0,0
+1750228455419,2440,/customer/account/createpost/-95,302,Found,,text,true,,7383,3136,0,0,https://magento.softwaretestingboard.com/customer/account/createpost/,2440,0,251
+1750228457892,2142,/customer/account/-96,200,OK,,text,true,,16576,2204,0,0,https://magento.softwaretestingboard.com/customer/account/,2142,0,254
+1750228460076,117,/extra/cmp/cmp-gdpr.js-97,307,Temporary Redirect,,text,true,,562,446,0,0,https://fstatic.netpub.media/extra/cmp/cmp-gdpr.js,117,0,66
+1750228460121,305,/pub/static/version1695896754/frontend/Magento/luma/en_US/mage/dropdowns.js-98,200,OK,,text,true,,2348,2218,0,0,https://magento.softwaretestingboard.com/pub/static/version1695896754/frontend/Magento/luma/en_US/mage/dropdowns.js,305,0,187
+1750228460127,309,/pub/static/version1695896754/frontend/Magento/luma/en_US/mage/toggle.js-99,200,OK,,text,true,,2410,2215,0,0,https://magento.softwaretestingboard.com/pub/static/version1695896754/frontend/Magento/luma/en_US/mage/toggle.js,309,0,181
+1750228460137,308,/pub/static/version1695896754/frontend/Magento/luma/en_US/Magento_Sales/js/view/last-ordered-items.js-101,200,OK,,text,true,,1653,2144,0,0,https://magento.softwaretestingboard.com/pub/static/version1695896754/frontend/Magento/luma/en_US/Magento_Sales/js/view/last-ordered-items.js,308,0,171
+1750228460201,448,/init.js-102,200,OK,,text,true,,791,428,0,0,https://gpp.netpub.media/init.js,448,0,107
+1750228460668,410,/17502284606530.23601101197975638/run.js-103,200,OK,,text,true,,535,495,0,0,https://gpp.netpub.media/17502284606530.23601101197975638/run.js?v=17502284606530.23601101197975638,410,0,82
+1750228460137,2643,/customer/section/load/-100,200,OK,,text,true,,18641,2448,0,0,https://magento.softwaretestingboard.com/customer/section/load/?sections=customer%2Ccompare-products%2Clast-ordered-items%2Ccart%2Cdirectory-data%2Ccaptcha%2Cinstant-purchase%2Cpersistent%2Creview%2Cwishlist%2Crecently_viewed_product%2Crecently_compared_product%2Cproduct_data_storage%2Cpaypal-billing-agreement%2Cmessages&force_new_section_timestamp=false&_=1750228460083,2643,0,170
+0,0,query.ess.apple.com:443,,"Connection reset
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1406,0,0,0,null,0,0,0
+1750228464540,162,/WebObjects/VCInit.woa/wa/getBag-104,200,OK,,text,true,,15410,232,0,0,https://init.ess.apple.com/WebObjects/VCInit.woa/wa/getBag?ix=3,161,0,102
+1750228726399,359,/-120,403,Forbidden,,text,false,,2033,1407,0,0,https://prebid.smilewanted.com/,359,0,203
+1750228726389,369,/-113,403,Forbidden,,text,false,,2034,1410,0,0,https://prebid.smilewanted.com/,369,0,212
+1750228726387,389,/a/c-111,204,No Content,,,true,,863,2657,0,0,https://prebid.a-mo.net/a/c,0,0,269
+1750228726399,388,/prebid-119,200,OK,,text,true,,1704,3133,0,0,https://mp.4dex.io/prebid,388,0,169
+1750228726381,421,/prebid-request-110,200,OK,,text,true,,546,3679,0,0,https://onetag-sys.com/prebid-request,421,0,276
+1750228726397,429,/prebid-request-117,200,OK,,text,true,,546,3675,0,0,https://onetag-sys.com/prebid-request,429,0,262
+1750228726401,458,/a/c-121,204,No Content,,,true,,863,2654,0,0,https://prebid.a-mo.net/a/c,0,0,339
+1750228726390,469,/hb-api/prebid/v1?RefererUrl=https%3A%2F%2Fmagento.softwaretestingboard.com%2F&PageUrl=https%3A%2F%2Fmagento.softwaretestingboard.com%2F&PageReferrer=https%3A%2F%2Fmagento.softwaretestingboard.com%2Fcustomer%2Faccount%2FlogoutSuccess%2F-114,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,,text,false,,2746,0,0,0,https://hb-api.omnitagjs.com/hb-api/prebid/v1?RefererUrl=https%3A%2F%2Fmagento.softwaretestingboard.com%2F&PageUrl=https%3A%2F%2Fmagento.softwaretestingboard.com%2F&PageReferrer=https%3A%2F%2Fmagento.softwaretestingboard.com%2Fcustomer%2Faccount%2FlogoutSuccess%2F,0,0,469
+1750228726402,457,/hb-api/prebid/v1?RefererUrl=https%3A%2F%2Fmagento.softwaretestingboard.com%2F&PageUrl=https%3A%2F%2Fmagento.softwaretestingboard.com%2F&PageReferrer=https%3A%2F%2Fmagento.softwaretestingboard.com%2Fcustomer%2Faccount%2FlogoutSuccess%2F-122,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,,text,false,,2746,0,0,0,https://hb-api.omnitagjs.com/hb-api/prebid/v1?RefererUrl=https%3A%2F%2Fmagento.softwaretestingboard.com%2F&PageUrl=https%3A%2F%2Fmagento.softwaretestingboard.com%2F&PageReferrer=https%3A%2F%2Fmagento.softwaretestingboard.com%2Fcustomer%2Faccount%2FlogoutSuccess%2F,0,0,457
+1750228726382,513,/prebid-108,200,OK,,text,true,,1720,3133,0,0,https://mp.4dex.io/prebid,505,0,219
+1750228726397,872,/v2/auction/-116,200,OK,,text,true,,950,1233,0,0,https://ghb.console.adtarget.com.tr/v2/auction/,872,0,576
+1750228726378,894,/v2/auction/-107,200,OK,,text,true,,951,1233,0,0,https://ghb.console.adtarget.com.tr/v2/auction/,893,0,607
+1750228726377,897,/2447/pb-106,204,No Content,,text,true,,606,1989,0,0,https://ad.360yield.com/2447/pb,0,0,493
+1750228726395,879,/2447/pb-115,204,No Content,,text,true,,606,1989,0,0,https://ad.360yield.com/2447/pb,0,0,465
+1750228726380,971,/pbjs/1/bd3d2/1/magento.softwaretestingboard.com/ROS-109,200,OK,,text,true,,746,1308,0,0,https://pbjs.e-planning.net/pbjs/1/bd3d2/1/magento.softwaretestingboard.com/ROS?rnd=0.5230869112422628&e=300x250_0%3A300x250%2C728x90%2C970x250%2C970x90%2C200x200%2C250x250%2C336x280%2C678x60%2C700x300%2C870x200%2C1050x300%7C0.04&ur=https%3A%2F%2Fmagento.softwaretestingboard.com%2F&pbv=8.52.2&ncb=1&vs=F&crs=UTF-8&fr=https%3A%2F%2Fmagento.softwaretestingboard.com%2Fcustomer%2Faccount%2FlogoutSuccess%2F&e_criteoId=Y_Q6JF9PODQzSlFrNTlrNlpOdHV3SDY0YmMwJTJCUGFSM01yTmFUZ3JvZzE3Sll2dW1BenZ6Z2dkSXBBQjZxYWtlZm1BSDMxTExnUlhKaWtnJTJCTDNnZWxxYjdpVWQ5akhpaEtORE00TFd0am9EVG92Q0ElM0Q&e_id5id=%257B%2522uid%2522%253A%2522ID5*BB_wDzAxApt_iWLfN9ceCHEcMH3m9C6a40NidSiaejImdh__LRJo5K7fjIJ-udK2%2522%252C%2522ext%2522%253A%257B%2522linkType%2522%253A1%252C%2522pba%2522%253A%2522C95x9t5%252FRjEkT4KusXmd4dCXFNEWV54S%252BqjydMzW%252FZc%253D%2522%257D%257D,971,0,613
+1750228726397,972,/pbjs/1/bd3d2/1/magento.softwaretestingboard.com/ROS-118,200,OK,,text,true,,746,1307,0,0,https://pbjs.e-planning.net/pbjs/1/bd3d2/1/magento.softwaretestingboard.com/ROS?rnd=0.5230869112422628&e=300x250_0%3A300x250%2C728x90%2C970x90%2C200x200%2C250x250%2C336x280%2C400x350%2C468x60%2C640x480%2C700x300%2C728x500%7C0.04&ur=https%3A%2F%2Fmagento.softwaretestingboard.com%2F&pbv=8.52.2&ncb=1&vs=F&crs=UTF-8&fr=https%3A%2F%2Fmagento.softwaretestingboard.com%2Fcustomer%2Faccount%2FlogoutSuccess%2F&e_criteoId=Y_Q6JF9PODQzSlFrNTlrNlpOdHV3SDY0YmMwJTJCUGFSM01yTmFUZ3JvZzE3Sll2dW1BenZ6Z2dkSXBBQjZxYWtlZm1BSDMxTExnUlhKaWtnJTJCTDNnZWxxYjdpVWQ5akhpaEtORE00TFd0am9EVG92Q0ElM0Q&e_id5id=%257B%2522uid%2522%253A%2522ID5*BB_wDzAxApt_iWLfN9ceCHEcMH3m9C6a40NidSiaejImdh__LRJo5K7fjIJ-udK2%2522%252C%2522ext%2522%253A%257B%2522linkType%2522%253A1%252C%2522pba%2522%253A%2522C95x9t5%252FRjEkT4KusXmd4dCXFNEWV54S%252BqjydMzW%252FZc%253D%2522%257D%257D,972,0,593
+1750228726375,1008,/v2/auction/-105,200,OK,,text,true,,1731,1703,0,0,https://ghb2.adtelligent.com/v2/auction/,1008,0,570
+1750228726388,1032,/v2/auction/-112,200,OK,,text,true,,1724,1706,0,0,https://ghb1.adtelligent.com/v2/auction/,1031,0,666
+0,0,netpubmedia.rtb.adtarget.biz:443,,"Broken pipe
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,2219,0,0,0,null,0,0,0
+0,0,gateway.icloud.com:443,,"Connection reset
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1406,0,0,0,null,0,0,0
+0,0,gateway.icloud.com:443,,"Connection reset
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1406,0,0,0,null,0,0,0
+0,0,gateway.icloud.com:443,,"Client requested protocol TLSv1 is not enabled or supported in server context
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1935,0,0,0,null,0,0,0
+1750228729068,363,/td-123,204,No Content,,text,true,,752,993,0,0,https://www.googletagmanager.com/td?id=G-1SPG0WZDNF&v=3&t=t&pid=950398769&exp=101509157%7E103116026%7E103200004%7E103233427%7E103351869%7E103351871%7E104617979%7E104617981%7E104718208%7E104736445%7E104736447%7E104766476%7E104766478%7E104791495%7E104791497&dl=magento.softwaretestingboard.com%2Fcustomer%2Faccount%2Flogin%2Freferer%2FaHR0cHM6Ly9tYWdlbnRvLnNvZnR3YXJldGVzdGluZ2JvYXJkLmNvbS8%252C%2F&tdp=G-1SPG0WZDNF%3B125449099%3B1%3B5%3B0&frm=0&pcid=_UA-92260117-7&bt=0&ct=3&z=0,0,0,263
+0,0,gateway.icloud.com:443,,"Connection reset
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1406,0,0,0,null,0,0,0
+0,0,gateway.icloud.com:443,,"Connection reset
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1406,0,0,0,null,0,0,0
+0,0,gateway.icloud.com:443,,"Client requested protocol TLSv1 is not enabled or supported in server context
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1935,0,0,0,null,0,0,0
+1750228750841,700,/calendar/dav/2k21it50%40kiot.ac.in/user/-124,401,Unauthorized,,text,false,,469,486,0,0,https://calendar.google.com/calendar/dav/2k21it50%40kiot.ac.in/user/,699,0,147
+1750228751606,404,/calendar/dav/2k21it50%40kiot.ac.in/user/-125,401,Unauthorized,,text,false,,469,486,0,0,https://calendar.google.com/calendar/dav/2k21it50%40kiot.ac.in/user/,404,0,88
+1750228753804,416,/oauth2/v4/token-126,200,OK,,text,true,,1640,581,0,0,https://www.googleapis.com/oauth2/v4/token,411,0,280
+1750228754502,1034,/calendar/dav/2k21it50%40kiot.ac.in/user/-127,200,OK,,text,true,,591,486,0,0,https://calendar.google.com/calendar/dav/2k21it50%40kiot.ac.in/user/,1034,0,141
+1750228755623,838,/calendar/dav/2k21it50%40kiot.ac.in/user/-128,207,unknown,,text,true,,1319,1395,0,0,https://calendar.google.com/calendar/dav/2k21it50%40kiot.ac.in/user/,837,0,112
+1750228756529,853,/calendar/dav/2k21it50%40kiot.ac.in/user/-129,200,OK,,text,true,,591,486,0,0,https://calendar.google.com/calendar/dav/2k21it50%40kiot.ac.in/user/,853,0,132
+1750228757441,785,/calendar/dav/2k21it50%40kiot.ac.in/user/-130,207,unknown,,text,true,,1390,706,0,0,https://calendar.google.com/calendar/dav/2k21it50%40kiot.ac.in/user/,784,0,119
+1750228758280,709,/calendar/dav/c_classroom9adf12d3%40group.calendar.google.com/user/-131,207,unknown,,text,true,,1176,869,0,0,https://calendar.google.com/calendar/dav/c_classroom9adf12d3%40group.calendar.google.com/user/,708,0,108
+1750228759046,800,/calendar/dav/c_classroom115d4d51%40group.calendar.google.com/user/-132,207,unknown,,text,true,,1179,869,0,0,https://calendar.google.com/calendar/dav/c_classroom115d4d51%40group.calendar.google.com/user/,798,0,94
+1750228759909,869,/calendar/dav/c_classroomdd434283%40group.calendar.google.com/user/-133,207,unknown,,text,true,,1136,869,0,0,https://calendar.google.com/calendar/dav/c_classroomdd434283%40group.calendar.google.com/user/,868,0,128
+0,0,gateway.icloud.com:443,,"Remote host terminated the handshake
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1390,0,0,0,null,0,0,0
+0,0,gateway.icloud.com:443,,"Remote host terminated the handshake
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1390,0,0,0,null,0,0,0
+0,0,gateway.icloud.com:443,,"Client requested protocol TLSv1 is not enabled or supported in server context
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1935,0,0,0,null,0,0,0
+1750228760834,2145,/calendar/dav/c_classroom233ce883%40group.calendar.google.com/user/-134,207,unknown,,text,true,,1220,869,0,0,https://calendar.google.com/calendar/dav/c_classroom233ce883%40group.calendar.google.com/user/,2144,0,263
+1750228763030,1420,/calendar/dav/c_classroombca5e62e%40group.calendar.google.com/user/-135,207,unknown,,text,true,,1188,869,0,0,https://calendar.google.com/calendar/dav/c_classroombca5e62e%40group.calendar.google.com/user/,1419,0,165
+1750228764505,771,/calendar/dav/c_classroom8f9f510c%40group.calendar.google.com/user/-136,207,unknown,,text,true,,1240,869,0,0,https://calendar.google.com/calendar/dav/c_classroom8f9f510c%40group.calendar.google.com/user/,770,0,136
+1750228765328,972,/calendar/dav/cln2sqbechkm2rh3d1nmoqb4c5sk0pridtqn0bjm5phm2r35dpi62shectnmuprcckn66rrd%40virtual/user/-137,207,unknown,,text,true,,1080,904,0,0,https://calendar.google.com/calendar/dav/cln2sqbechkm2rh3d1nmoqb4c5sk0pridtqn0bjm5phm2r35dpi62shectnmuprcckn66rrd%40virtual/user/,971,0,180
+1750228766349,720,/calendar/dav/c_a9df8daefe1f84b8369f278ebdb9874f30598681af49dd9f9fb0eeab794320c7%40group.calendar.google.com/user/-138,207,unknown,,text,true,,1288,916,0,0,https://calendar.google.com/calendar/dav/c_a9df8daefe1f84b8369f278ebdb9874f30598681af49dd9f9fb0eeab794320c7%40group.calendar.google.com/user/,719,0,187
+1750228767626,243,/localstore.js-140,304,Not Modified,,,true,,851,535,0,0,https://script.4dex.io/localstore.js,0,0,140
+1750228767643,253,/-144,403,Forbidden,,text,false,,2034,1406,0,0,https://prebid.smilewanted.com/,253,0,137
+1750228767664,246,/-156,403,Forbidden,,text,false,,2034,1405,0,0,https://prebid.smilewanted.com/,246,0,103
+1750228767642,291,/prebid-request-142,200,OK,,text,true,,546,3812,0,0,https://onetag-sys.com/prebid-request,291,0,138
+1750228767653,295,/prebid-151,200,OK,,text,true,,1744,3188,0,0,https://mp.4dex.io/prebid,295,0,88
+0,0,gateway.icloud.com:443,,"Remote host terminated the handshake
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1390,0,0,0,null,0,0,0
+0,0,gateway.icloud.com:443,,"Remote host terminated the handshake
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1390,0,0,0,null,0,0,0
+0,0,gateway.icloud.com:443,,"Client requested protocol TLSv1 is not enabled or supported in server context
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1935,0,0,0,null,0,0,0
+1750228767670,324,/a/c-159,204,No Content,,,true,,863,2770,0,0,https://prebid.a-mo.net/a/c,0,0,156
+1750228767643,405,/prebid-141,200,OK,,text,true,,1693,3186,0,0,https://mp.4dex.io/prebid,405,0,98
+1750228767665,408,/hb-api/prebid/v1?RefererUrl=https%3A%2F%2Fmagento.softwaretestingboard.com%2F&PageUrl=https%3A%2F%2Fmagento.softwaretestingboard.com%2F&PageReferrer=https%3A%2F%2Fmagento.softwaretestingboard.com%2Fcustomer%2Faccount%2Flogin%2Freferer%2FaHR0cHM6Ly9tYWdlbnRvLnNvZnR3YXJldGVzdGluZ2JvYXJkLmNvbS8%252C%2F-157,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,,text,false,,2746,0,0,0,https://hb-api.omnitagjs.com/hb-api/prebid/v1?RefererUrl=https%3A%2F%2Fmagento.softwaretestingboard.com%2F&PageUrl=https%3A%2F%2Fmagento.softwaretestingboard.com%2F&PageReferrer=https%3A%2F%2Fmagento.softwaretestingboard.com%2Fcustomer%2Faccount%2Flogin%2Freferer%2FaHR0cHM6Ly9tYWdlbnRvLnNvZnR3YXJldGVzdGluZ2JvYXJkLmNvbS8%252C%2F,0,0,408
+1750228767645,428,/hb-api/prebid/v1?RefererUrl=https%3A%2F%2Fmagento.softwaretestingboard.com%2F&PageUrl=https%3A%2F%2Fmagento.softwaretestingboard.com%2F&PageReferrer=https%3A%2F%2Fmagento.softwaretestingboard.com%2Fcustomer%2Faccount%2Flogin%2Freferer%2FaHR0cHM6Ly9tYWdlbnRvLnNvZnR3YXJldGVzdGluZ2JvYXJkLmNvbS8%252C%2F-146,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,,text,false,,2746,0,0,0,https://hb-api.omnitagjs.com/hb-api/prebid/v1?RefererUrl=https%3A%2F%2Fmagento.softwaretestingboard.com%2F&PageUrl=https%3A%2F%2Fmagento.softwaretestingboard.com%2F&PageReferrer=https%3A%2F%2Fmagento.softwaretestingboard.com%2Fcustomer%2Faccount%2Flogin%2Freferer%2FaHR0cHM6Ly9tYWdlbnRvLnNvZnR3YXJldGVzdGluZ2JvYXJkLmNvbS8%252C%2F,0,0,428
+1750228767138,946,/calendar/dav/2k21it50%40kiot.ac.in/-139,207,unknown,,text,true,,2038,2809,0,0,https://calendar.google.com/calendar/dav/2k21it50%40kiot.ac.in/,945,0,159
+1750228767649,444,/a/c-148,204,No Content,,,true,,863,2773,0,0,https://prebid.a-mo.net/a/c,0,0,248
+1750228767662,464,/prebid-request-155,200,OK,,text,true,,546,3808,0,0,https://onetag-sys.com/prebid-request,464,0,237
+1750228767883,311,/a/latest/adagio.js-161,304,Not Modified,,,true,,965,586,0,0,https://script.4dex.io/a/latest/adagio.js,0,0,213
+1750228767654,645,/pb-152,204,No Content,,,true,,843,568,0,0,https://netpubmedia.rtb.adtarget.biz/pb,0,0,216
+1750228767644,655,/pb-143,204,No Content,,,true,,849,568,0,0,https://netpubmedia.rtb.adtarget.biz/pb,0,0,227
+1750228767671,690,/2447/pb-160,204,No Content,,text,true,,606,2046,0,0,https://ad.360yield.com/2447/pb,0,0,329
+1750228767658,713,/2447/pb-153,204,No Content,,text,true,,606,2047,0,0,https://ad.360yield.com/2447/pb,0,0,358
+1750228767652,976,/v2/auction/-149,200,OK,,text,true,,1732,1701,0,0,https://ghb1.adtelligent.com/v2/auction/,976,0,519
+1750228767644,988,/v2/auction/-145,200,OK,,text,true,,950,1234,0,0,https://ghb.console.adtarget.com.tr/v2/auction/,988,0,663
+1750228767662,970,/v2/auction/-154,200,OK,,text,true,,948,1232,0,0,https://ghb.console.adtarget.com.tr/v2/auction/,970,0,654
+1750228767645,1005,/pbjs/1/bd3d2/1/magento.softwaretestingboard.com/ROS-147,200,OK,,text,true,,746,1372,0,0,https://pbjs.e-planning.net/pbjs/1/bd3d2/1/magento.softwaretestingboard.com/ROS?rnd=0.730834243456599&e=300x250_0%3A300x250%2C728x90%2C970x250%2C970x90%2C200x200%2C250x250%2C336x280%2C678x60%2C700x300%2C870x200%2C1050x300%7C0.04&ur=https%3A%2F%2Fmagento.softwaretestingboard.com%2F&pbv=8.52.2&ncb=1&vs=F&crs=UTF-8&fr=https%3A%2F%2Fmagento.softwaretestingboard.com%2Fcustomer%2Faccount%2Flogin%2Freferer%2FaHR0cHM6Ly9tYWdlbnRvLnNvZnR3YXJldGVzdGluZ2JvYXJkLmNvbS8%252C%2F&e_criteoId=Y_Q6JF9PODQzSlFrNTlrNlpOdHV3SDY0YmMwJTJCUGFSM01yTmFUZ3JvZzE3Sll2dW1BenZ6Z2dkSXBBQjZxYWtlZm1BSDMxTExnUlhKaWtnJTJCTDNnZWxxYjdpVWQ5akhpaEtORE00TFd0am9EVG92Q0ElM0Q&e_id5id=%257B%2522uid%2522%253A%2522ID5*BB_wDzAxApt_iWLfN9ceCHEcMH3m9C6a40NidSiaejImdh__LRJo5K7fjIJ-udK2%2522%252C%2522ext%2522%253A%257B%2522linkType%2522%253A1%252C%2522pba%2522%253A%2522C95x9t5%252FRjEkT4KusXmd4dCXFNEWV54S%252BqjydMzW%252FZc%253D%2522%257D%257D,1005,0,655
+1750228767653,997,/v2/auction/-150,200,OK,,text,true,,1727,1701,0,0,https://ghb.adtelligent.com/v2/auction/,997,0,539
+1750228767666,1012,/pbjs/1/bd3d2/1/magento.softwaretestingboard.com/ROS-158,200,OK,,text,true,,746,1371,0,0,https://pbjs.e-planning.net/pbjs/1/bd3d2/1/magento.softwaretestingboard.com/ROS?rnd=0.730834243456599&e=300x250_0%3A300x250%2C728x90%2C970x90%2C200x200%2C250x250%2C336x280%2C400x350%2C468x60%2C640x480%2C700x300%2C728x500%7C0.04&ur=https%3A%2F%2Fmagento.softwaretestingboard.com%2F&pbv=8.52.2&ncb=1&vs=F&crs=UTF-8&fr=https%3A%2F%2Fmagento.softwaretestingboard.com%2Fcustomer%2Faccount%2Flogin%2Freferer%2FaHR0cHM6Ly9tYWdlbnRvLnNvZnR3YXJldGVzdGluZ2JvYXJkLmNvbS8%252C%2F&e_criteoId=Y_Q6JF9PODQzSlFrNTlrNlpOdHV3SDY0YmMwJTJCUGFSM01yTmFUZ3JvZzE3Sll2dW1BenZ6Z2dkSXBBQjZxYWtlZm1BSDMxTExnUlhKaWtnJTJCTDNnZWxxYjdpVWQ5akhpaEtORE00TFd0am9EVG92Q0ElM0Q&e_id5id=%257B%2522uid%2522%253A%2522ID5*BB_wDzAxApt_iWLfN9ceCHEcMH3m9C6a40NidSiaejImdh__LRJo5K7fjIJ-udK2%2522%252C%2522ext%2522%253A%257B%2522linkType%2522%253A1%252C%2522pba%2522%253A%2522C95x9t5%252FRjEkT4KusXmd4dCXFNEWV54S%252BqjydMzW%252FZc%253D%2522%257D%257D,1012,0,634
+1750228768315,605,/pb-163,204,No Content,,,true,,737,2610,0,0,https://netpubmedia.rtb.adtarget.biz/pb,0,0,96
+1750228768315,622,/pb-162,204,No Content,,,true,,735,2608,0,0,https://netpubmedia.rtb.adtarget.biz/pb,0,0,101
+1750228772038,357,/sync/-164,200,OK,,text,true,,628,867,0,0,https://id.a-mx.com/sync/?tagId=bmV0cHViLmNvbQ&ref=https%3A%2F%2Fmagento.softwaretestingboard.com%2Fcustomer%2Faccount%2Flogin%2Freferer%2FaHR0cHM6Ly9tYWdlbnRvLnNvZnR3YXJldGVzdGluZ2JvYXJkLmNvbS8%2C%2F&u=https%3A%2F%2Fmagento.softwaretestingboard.com%2F&tl=https%3A%2F%2Fmagento.softwaretestingboard.com%2F&nf=0&rt=true&v=8.52.2&av=2.0&vg=pbjs_broly250401&us_privacy=null&am=null&gdpr=0&gdpr_consent=,357,0,255
+1750228774795,219,/-185,403,Forbidden,,text,false,,2034,1405,0,0,https://prebid.smilewanted.com/,219,0,130
+1750228774784,243,/-175,403,Forbidden,,text,false,,2034,1406,0,0,https://prebid.smilewanted.com/,243,0,139
+1750228774770,313,/prebid-166,200,OK,,text,true,,1733,3187,0,0,https://mp.4dex.io/prebid,312,0,116
+1750228774771,370,/prebid-request-168,200,OK,,text,true,,546,3791,0,0,https://onetag-sys.com/prebid-request,370,0,197
+1750228774787,399,/prebid-request-178,200,OK,,text,true,,546,3789,0,0,https://onetag-sys.com/prebid-request,399,0,194
+1750228774792,410,/a/c-182,204,No Content,,,true,,863,2771,0,0,https://prebid.a-mo.net/a/c,0,0,191
+1750228774777,460,/pb-171,204,No Content,,,true,,855,568,0,0,https://netpubmedia.rtb.adtarget.biz/pb,0,0,146
+1750228774780,473,/a/c-172,204,No Content,,,true,,863,2774,0,0,https://prebid.a-mo.net/a/c,0,0,235
+1750228774788,478,/pb-180,204,No Content,,,true,,845,568,0,0,https://netpubmedia.rtb.adtarget.biz/pb,0,0,138
+1750228774786,625,/prebid-177,200,OK,,text,true,,1686,3188,0,0,https://mp.4dex.io/prebid,625,0,182
+1750228774771,818,/hb-api/prebid/v1?RefererUrl=https%3A%2F%2Fmagento.softwaretestingboard.com%2F&PageUrl=https%3A%2F%2Fmagento.softwaretestingboard.com%2F&PageReferrer=https%3A%2F%2Fmagento.softwaretestingboard.com%2Fcustomer%2Faccount%2Flogin%2Freferer%2FaHR0cHM6Ly9tYWdlbnRvLnNvZnR3YXJldGVzdGluZ2JvYXJkLmNvbS8%252C%2F-167,204,No Content,,,true,,98,2135,0,0,https://hb-api.omnitagjs.com/hb-api/prebid/v1?RefererUrl=https%3A%2F%2Fmagento.softwaretestingboard.com%2F&PageUrl=https%3A%2F%2Fmagento.softwaretestingboard.com%2F&PageReferrer=https%3A%2F%2Fmagento.softwaretestingboard.com%2Fcustomer%2Faccount%2Flogin%2Freferer%2FaHR0cHM6Ly9tYWdlbnRvLnNvZnR3YXJldGVzdGluZ2JvYXJkLmNvbS8%252C%2F,0,0,573
+1750228774783,813,/2447/pb-174,204,No Content,,text,true,,606,2047,0,0,https://ad.360yield.com/2447/pb,0,0,469
+1750228774793,816,/2447/pb-183,204,No Content,,text,true,,606,2044,0,0,https://ad.360yield.com/2447/pb,0,0,450
+1750228774772,837,/v2/auction/-169,200,OK,,text,true,,1722,1700,0,0,https://ghb.adtelligent.com/v2/auction/,833,0,533
+1750228774788,868,/hb-api/prebid/v1?RefererUrl=https%3A%2F%2Fmagento.softwaretestingboard.com%2F&PageUrl=https%3A%2F%2Fmagento.softwaretestingboard.com%2F&PageReferrer=https%3A%2F%2Fmagento.softwaretestingboard.com%2Fcustomer%2Faccount%2Flogin%2Freferer%2FaHR0cHM6Ly9tYWdlbnRvLnNvZnR3YXJldGVzdGluZ2JvYXJkLmNvbS8%252C%2F-179,204,No Content,,,true,,98,2133,0,0,https://hb-api.omnitagjs.com/hb-api/prebid/v1?RefererUrl=https%3A%2F%2Fmagento.softwaretestingboard.com%2F&PageUrl=https%3A%2F%2Fmagento.softwaretestingboard.com%2F&PageReferrer=https%3A%2F%2Fmagento.softwaretestingboard.com%2Fcustomer%2Faccount%2Flogin%2Freferer%2FaHR0cHM6Ly9tYWdlbnRvLnNvZnR3YXJldGVzdGluZ2JvYXJkLmNvbS8%252C%2F,0,0,623
+1750228774784,1014,/v2/auction/-176,200,OK,,text,true,,948,1233,0,0,https://ghb.console.adtarget.com.tr/v2/auction/,1014,0,700
+1750228774794,1004,/v2/auction/-184,200,OK,,text,true,,950,1233,0,0,https://ghb.console.adtarget.com.tr/v2/auction/,1004,0,690
+1750228774790,1055,/pbjs/1/bd3d2/1/magento.softwaretestingboard.com/ROS-181,200,OK,,text,true,,746,1371,0,0,https://pbjs.e-planning.net/pbjs/1/bd3d2/1/magento.softwaretestingboard.com/ROS?rnd=0.730834243456599&e=300x250_0%3A300x250%2C728x90%2C970x90%2C200x200%2C250x250%2C336x280%2C400x350%2C468x60%2C640x480%2C700x300%2C728x500%7C0.04&ur=https%3A%2F%2Fmagento.softwaretestingboard.com%2F&pbv=8.52.2&ncb=1&vs=F&crs=UTF-8&fr=https%3A%2F%2Fmagento.softwaretestingboard.com%2Fcustomer%2Faccount%2Flogin%2Freferer%2FaHR0cHM6Ly9tYWdlbnRvLnNvZnR3YXJldGVzdGluZ2JvYXJkLmNvbS8%252C%2F&e_criteoId=Y_Q6JF9PODQzSlFrNTlrNlpOdHV3SDY0YmMwJTJCUGFSM01yTmFUZ3JvZzE3Sll2dW1BenZ6Z2dkSXBBQjZxYWtlZm1BSDMxTExnUlhKaWtnJTJCTDNnZWxxYjdpVWQ5akhpaEtORE00TFd0am9EVG92Q0ElM0Q&e_id5id=%257B%2522uid%2522%253A%2522ID5*BB_wDzAxApt_iWLfN9ceCHEcMH3m9C6a40NidSiaejImdh__LRJo5K7fjIJ-udK2%2522%252C%2522ext%2522%253A%257B%2522linkType%2522%253A1%252C%2522pba%2522%253A%2522C95x9t5%252FRjEkT4KusXmd4dCXFNEWV54S%252BqjydMzW%252FZc%253D%2522%257D%257D,1055,0,649
+1750228774780,1099,/v2/auction/-173,200,OK,,text,true,,1730,1703,0,0,https://ghb2.adtelligent.com/v2/auction/,1099,0,566
+1750228775277,722,/pb-187,204,No Content,,,true,,729,2609,0,0,https://netpubmedia.rtb.adtarget.biz/pb,0,0,206
+1750228775253,746,/pb-186,204,No Content,,,true,,735,2610,0,0,https://netpubmedia.rtb.adtarget.biz/pb,0,0,158
+1750228774776,3295,/pbjs/1/bd3d2/1/magento.softwaretestingboard.com/ROS-170,200,OK,,text,true,,746,1372,0,0,https://pbjs.e-planning.net/pbjs/1/bd3d2/1/magento.softwaretestingboard.com/ROS?rnd=0.730834243456599&e=300x250_0%3A300x250%2C728x90%2C970x250%2C970x90%2C200x200%2C250x250%2C336x280%2C678x60%2C700x300%2C870x200%2C1050x300%7C0.04&ur=https%3A%2F%2Fmagento.softwaretestingboard.com%2F&pbv=8.52.2&ncb=1&vs=F&crs=UTF-8&fr=https%3A%2F%2Fmagento.softwaretestingboard.com%2Fcustomer%2Faccount%2Flogin%2Freferer%2FaHR0cHM6Ly9tYWdlbnRvLnNvZnR3YXJldGVzdGluZ2JvYXJkLmNvbS8%252C%2F&e_criteoId=Y_Q6JF9PODQzSlFrNTlrNlpOdHV3SDY0YmMwJTJCUGFSM01yTmFUZ3JvZzE3Sll2dW1BenZ6Z2dkSXBBQjZxYWtlZm1BSDMxTExnUlhKaWtnJTJCTDNnZWxxYjdpVWQ5akhpaEtORE00TFd0am9EVG92Q0ElM0Q&e_id5id=%257B%2522uid%2522%253A%2522ID5*BB_wDzAxApt_iWLfN9ceCHEcMH3m9C6a40NidSiaejImdh__LRJo5K7fjIJ-udK2%2522%252C%2522ext%2522%253A%257B%2522linkType%2522%253A1%252C%2522pba%2522%253A%2522C95x9t5%252FRjEkT4KusXmd4dCXFNEWV54S%252BqjydMzW%252FZc%253D%2522%257D%257D,3294,0,2949
+0,0,gateway.icloud.com:443,,"Connection reset
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1406,0,0,0,null,0,0,0
+0,0,gateway.icloud.com:443,,"Remote host terminated the handshake
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1390,0,0,0,null,0,0,0
+0,0,gateway.icloud.com:443,,"Client requested protocol TLSv1 is not enabled or supported in server context
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1935,0,0,0,null,0,0,0
+1750230518272,132,/icons/icons_0/apple-touch-icon.png-189,200,OK,,bin,true,,4767,290,0,0,https://demo.nopcommerce.com/icons/icons_0/apple-touch-icon.png,131,0,91
+1750230517498,1133,/OneCollector/1.0/?cors=true&content-type=application/x-json-stream&content-encoding=gzip-188,400,Exception while decoding the payload,,text,false,,577,7439,0,0,https://teams.events.data.microsoft.com/OneCollector/1.0/?cors=true&content-type=application/x-json-stream&content-encoding=gzip,1133,0,781
+0,0,gateway.icloud.com:443,,"Connection reset
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1406,0,0,0,null,0,0,0
+0,0,gateway.icloud.com:443,,"Connection reset
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1406,0,0,0,null,0,0,0
+0,0,gateway.icloud.com:443,,"Client requested protocol TLSv1 is not enabled or supported in server context
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1935,0,0,0,null,0,0,0
+0,0,gateway.icloud.com:443,,"Connection reset
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1406,0,0,0,null,0,0,0
+0,0,gateway.icloud.com:443,,"Connection reset
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1406,0,0,0,null,0,0,0
+0,0,gateway.icloud.com:443,,"Client requested protocol TLSv1 is not enabled or supported in server context
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1935,0,0,0,null,0,0,0
+0,0,gsa.apple.com:443,,"Connection reset
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1406,0,0,0,null,0,0,0
+0,0,gateway.icloud.com:443,,"Connection reset
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1406,0,0,0,null,0,0,0
+0,0,gateway.icloud.com:443,,"Connection reset
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1406,0,0,0,null,0,0,0
+0,0,gateway.icloud.com:443,,"Client requested protocol TLSv1 is not enabled or supported in server context
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1935,0,0,0,null,0,0,0
+0,0,gateway.icloud.com:443,,"Connection reset
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1406,0,0,0,null,0,0,0
+0,0,gateway.icloud.com:443,,"Connection reset
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1406,0,0,0,null,0,0,0
+0,0,gateway.icloud.com:443,,"Client requested protocol TLSv1 is not enabled or supported in server context
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1935,0,0,0,null,0,0,0
+1750230678553,984,/-190,403,Forbidden,,text,false,,8528,2025,0,0,https://demo.nopcommerce.com/,984,0,823
+1750230679618,564,/cdn-cgi/challenge-platform/h/g/orchestrate/chl_page/v1-191,200,OK,,text,true,,46185,2206,0,0,https://demo.nopcommerce.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_page/v1?ray=9518f8d28a407f00,564,0,384
+0,0,gsp-ssl.ls.apple.com:443,,"Remote host terminated the handshake
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1390,0,0,0,null,0,0,0
+0,0,gsp-ssl.ls.apple.com:443,,"Remote host terminated the handshake
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1390,0,0,0,null,0,0,0
+1750230680685,554,/cdn-cgi/challenge-platform/h/g/flow/ov1/1709565260:1750227572:Lp45e6361U5l1_PgE9pdrEwhbQcdQJJLYczP-jPluss/9518f8d28a407f00/xVm8S0YCBxTOZ7_VTsNaqENA_npaUTEQwLd1COv.8L8-1750230679-1.2.1.1-ZCo.e_oemn.430tDMLcIQVwLWmumsHNise_8T8qzKwRXzx.P9lXTpR8fb_pEpmF0-193,200,OK,,text,true,,15614,4770,0,0,https://demo.nopcommerce.com/cdn-cgi/challenge-platform/h/g/flow/ov1/1709565260:1750227572:Lp45e6361U5l1_PgE9pdrEwhbQcdQJJLYczP-jPluss/9518f8d28a407f00/xVm8S0YCBxTOZ7_VTsNaqENA_npaUTEQwLd1COv.8L8-1750230679-1.2.1.1-ZCo.e_oemn.430tDMLcIQVwLWmumsHNise_8T8qzKwRXzx.P9lXTpR8fb_pEpmF0,554,0,387
+1750230680674,565,/favicon.ico-192,200,OK,,bin,true,,4512,2140,0,0,https://demo.nopcommerce.com/favicon.ico,565,0,398
+1750230682018,548,/-194,200,OK,,text,true,,499,721,0,0,https://go.trouter.teams.microsoft.com/?check=1750230679042&cor_id=D49E105E-A1C4-4149-917F-60DE557832D5&epid=e20b0e3b-5afb-46a2-ad76-ecfc1d98a8f4&tc=%7B%22cv%22%3A%222025.20.01.5%22%2C%22ua%22%3A%22TeamsCDL%22%2C%22hr%22%3A%22%22%2C%22v%22%3A%2250%2F25060206612%22%7D,548,0,398
+0,0,challenges.cloudflare.com:443,,"Remote host terminated the handshake
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1390,0,0,0,null,0,0,0
+1750230683243,320,/turnstile/v0/g/180b6a431d85/api.js-195,200,OK,,text,true,,16847,476,0,0,https://challenges.cloudflare.com/turnstile/v0/g/180b6a431d85/api.js?onload=ZJgv0&render=explicit,320,0,215
+1750230683591,214,/cdn-cgi/challenge-platform/h/g/turnstile/if/ov2/av0/rcv/42isx/0x4AAAAAAADnPIDROrmt1Wwj/dark/fbE/new/normal/auto/-196,200,OK,,text,true,,8611,551,0,0,https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/if/ov2/av0/rcv/42isx/0x4AAAAAAADnPIDROrmt1Wwj/dark/fbE/new/normal/auto/,214,0,128
+1750230683832,160,/cdn-cgi/challenge-platform/h/g/cmg/1-197,200,OK,,bin,true,,286,580,0,0,https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/cmg/1,160,0,95
+1750230683843,181,/cdn-cgi/challenge-platform/h/g/orchestrate/chl_api/v1-198,200,OK,,text,true,,57805,508,0,0,https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_api/v1?ray=9518f8edac007f65&lang=auto,181,0,110
+1750230684050,189,/cdn-cgi/rum?-199,204,No Content,,,true,,377,3591,0,0,https://demo.nopcommerce.com/cdn-cgi/rum?,0,0,98
+1750230684225,334,/cdn-cgi/challenge-platform/h/g/flow/ov1/738170320:1750227664:jU_I7u5cHSHhfwnYRJyR1uDB4qiVXMbvEK4geZ2nEFU/9518f8edac007f65/E4LJlO3ccfERlps2ijnKo5YJk0Py7xAuVIm7E.F8k04-1750230683-1.2.1.1-V2SLF7bahPAty7K4p8YMZIJfciXOOtKKpQbG3ye1RKj3NmwjWrjCBt_ASbALkguw-200,200,OK,,text,true,,223499,5301,0,0,https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/flow/ov1/738170320:1750227664:jU_I7u5cHSHhfwnYRJyR1uDB4qiVXMbvEK4geZ2nEFU/9518f8edac007f65/E4LJlO3ccfERlps2ijnKo5YJk0Py7xAuVIm7E.F8k04-1750230683-1.2.1.1-V2SLF7bahPAty7K4p8YMZIJfciXOOtKKpQbG3ye1RKj3NmwjWrjCBt_ASbALkguw,330,0,126
+1750230684857,163,/cdn-cgi/challenge-platform/h/g/d/9518f8edac007f65/1750230684430/B4Bzg2HHqXX2KLd-202,200,OK,,bin,true,,682,623,0,0,https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/d/9518f8edac007f65/1750230684430/B4Bzg2HHqXX2KLd,163,0,107
+1750230685030,183,/cdn-cgi/challenge-platform/h/g/pat/9518f8edac007f65/1750230684430/19abef6742b8729ce5ea48a6e57fede9ff6d8a740785aff1d64cb9c6f4acb17a/1w3MknacZDQHknr-203,401,Unauthorized,,text,false,,2159,592,0,0,https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/pat/9518f8edac007f65/1750230684430/19abef6742b8729ce5ea48a6e57fede9ff6d8a740785aff1d64cb9c6f4acb17a/1w3MknacZDQHknr,182,0,100
+1750230684606,734,/Collector/3.0/-201,400,Exception while decoding the payload,,,false,,494,4115,0,0,https://teams.events.data.microsoft.com/Collector/3.0/,734,0,412
+1750230686732,253,/diagnostics/network?cb=1750230684905-204,200,OK,,text,true,,630,1042,0,0,https://teams.microsoft.com/diagnostics/network?cb=1750230684905,0,0,193
+1750230687086,699,/OneCollector/1.0/-205,400,Exception while decoding the payload,,text,false,,551,4986,0,0,https://teams.events.data.microsoft.com/OneCollector/1.0/,699,0,352
+0,0,attester.gateway.icloud.com:443,,"Remote host terminated the handshake
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1390,0,0,0,null,0,0,0
+1750230688038,300,/token-request?issuer=pat-issuer.cloudflare.com-206,401,Unauthorized,,,false,,369,4512,0,0,https://attester.gateway.icloud.com/token-request?issuer=pat-issuer.cloudflare.com,300,0,217
+1750230689372,326,/v4/a?cor_id=D49E105E-A1C4-4149-917F-60DE557832D5&con_num=1750222566073_1&epid=e20b0e3b-5afb-46a2-ad76-ecfc1d98a8f4&issuer=prod-2&scae=1&sig=qiJpSGZOSsw_YtKGSabrGcduL2NUTd3EostP-SMYbPw&sr=IU8AAPsgXhYeUSRVOE6BdUs8YvgjedA_iWODg0eeh7wRuGeTidxLv7Mjd3UvUEODuKQRkuwqv_VYLjbnYe9lUEdA5JOTBywGV2RjLxUDeUT97Ed0GXI&sp=connect&se=1750803715393&st=1750217444393&v=v4-207,204,No Content,,,true,,496,971,0,0,https://pub-ent-ince-09-t.trouter.teams.microsoft.com/v4/a?cor_id=D49E105E-A1C4-4149-917F-60DE557832D5&con_num=1750222566073_1&epid=e20b0e3b-5afb-46a2-ad76-ecfc1d98a8f4&issuer=prod-2&scae=1&sig=qiJpSGZOSsw_YtKGSabrGcduL2NUTd3EostP-SMYbPw&sr=IU8AAPsgXhYeUSRVOE6BdUs8YvgjedA_iWODg0eeh7wRuGeTidxLv7Mjd3UvUEODuKQRkuwqv_VYLjbnYe9lUEdA5JOTBywGV2RjLxUDeUT97Ed0GXI&sp=connect&se=1750803715393&st=1750217444393&v=v4,0,0,246
+1750230689703,249,/v4/a?cor_id=D49E105E-A1C4-4149-917F-60DE557832D5&con_num=1750222566073_1&epid=e20b0e3b-5afb-46a2-ad76-ecfc1d98a8f4&issuer=prod-2&scae=1&sig=qiJpSGZOSsw_YtKGSabrGcduL2NUTd3EostP-SMYbPw&sr=IU8AAPsgXhYeUSRVOE6BdUs8YvgjedA_iWODg0eeh7wRuGeTidxLv7Mjd3UvUEODuKQRkuwqv_VYLjbnYe9lUEdA5JOTBywGV2RjLxUDeUT97Ed0GXI&sp=connect&se=1750803715393&st=1750217444393&v=v4-208,200,OK,,text,true,,882,2912,0,0,https://pub-ent-ince-09-t.trouter.teams.microsoft.com/v4/a?cor_id=D49E105E-A1C4-4149-917F-60DE557832D5&con_num=1750222566073_1&epid=e20b0e3b-5afb-46a2-ad76-ecfc1d98a8f4&issuer=prod-2&scae=1&sig=qiJpSGZOSsw_YtKGSabrGcduL2NUTd3EostP-SMYbPw&sr=IU8AAPsgXhYeUSRVOE6BdUs8YvgjedA_iWODg0eeh7wRuGeTidxLv7Mjd3UvUEODuKQRkuwqv_VYLjbnYe9lUEdA5JOTBywGV2RjLxUDeUT97Ed0GXI&sp=connect&se=1750803715393&st=1750217444393&v=v4,249,0,164
+1750230689961,317,"/socket.io/1/?sr=IU8AAPsgXhYeUSRVOE6BdUs8YvgjedA_iWODg0eeh7wRuGeTidxLv7Mjd3UvUEODuKQRkuwqv_VYLjbnYe9lUEdA5JOTBywGV2RjLxUDeUT97Ed0GXI&issuer=prod-2&sp=connect&se=1750803715393&st=1750217444393&scae=1&sig=qiJpSGZOSsw_YtKGSabrGcduL2NUTd3EostP-SMYbPw&v=v4&tc=%7B%22cv%22:%222025.20.01.5%22,%22ua%22:%22TeamsCDL%22,%22hr%22:%22%22,%22v%22:%2250/25060206612%22%7D&timeout=40&auth=true&epid=e20b0e3b-5afb-46a2-ad76-ecfc1d98a8f4&userActivity=%7B%22state%22%3A%22active%22%2C%22cv%22%3A%22sdNxXnHKqc0ZrkzbpRtrNw.0.7%22%7D&ccid=BdUs8YvgjeQ&cor_id=D49E105E-A1C4-4149-917F-60DE557832D5&con_num=1750222566073_1&t=1750230689956-210",204,No Content,,,true,,495,1230,0,0,"https://pub-ent-ince-09-t.trouter.teams.microsoft.com/socket.io/1/?sr=IU8AAPsgXhYeUSRVOE6BdUs8YvgjedA_iWODg0eeh7wRuGeTidxLv7Mjd3UvUEODuKQRkuwqv_VYLjbnYe9lUEdA5JOTBywGV2RjLxUDeUT97Ed0GXI&issuer=prod-2&sp=connect&se=1750803715393&st=1750217444393&scae=1&sig=qiJpSGZOSsw_YtKGSabrGcduL2NUTd3EostP-SMYbPw&v=v4&tc=%7B%22cv%22:%222025.20.01.5%22,%22ua%22:%22TeamsCDL%22,%22hr%22:%22%22,%22v%22:%2250/25060206612%22%7D&timeout=40&auth=true&epid=e20b0e3b-5afb-46a2-ad76-ecfc1d98a8f4&userActivity=%7B%22state%22%3A%22active%22%2C%22cv%22%3A%22sdNxXnHKqc0ZrkzbpRtrNw.0.7%22%7D&ccid=BdUs8YvgjeQ&cor_id=D49E105E-A1C4-4149-917F-60DE557832D5&con_num=1750222566073_1&t=1750230689956",0,0,143
+1750230689893,393,/cdn-cgi/challenge-platform/h/g/flow/ov1/738170320:1750227664:jU_I7u5cHSHhfwnYRJyR1uDB4qiVXMbvEK4geZ2nEFU/9518f8edac007f65/E4LJlO3ccfERlps2ijnKo5YJk0Py7xAuVIm7E.F8k04-1750230683-1.2.1.1-V2SLF7bahPAty7K4p8YMZIJfciXOOtKKpQbG3ye1RKj3NmwjWrjCBt_ASbALkguw-209,200,OK,,text,true,,22646,37355,0,0,https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/flow/ov1/738170320:1750227664:jU_I7u5cHSHhfwnYRJyR1uDB4qiVXMbvEK4geZ2nEFU/9518f8edac007f65/E4LJlO3ccfERlps2ijnKo5YJk0Py7xAuVIm7E.F8k04-1750230683-1.2.1.1-V2SLF7bahPAty7K4p8YMZIJfciXOOtKKpQbG3ye1RKj3NmwjWrjCBt_ASbALkguw,393,0,95
+0,0,metrics.icloud.com:443,,"Received fatal alert: certificate_unknown
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1274,0,0,0,null,0,0,0
+0,0,metrics.icloud.com:443,,"Remote host terminated the handshake
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1390,0,0,0,null,0,0,0
+0,0,metrics.icloud.com:443,,"Remote host terminated the handshake
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1390,0,0,0,null,0,0,0
+0,0,metrics.icloud.com:443,,"Client requested protocol TLSv1 is not enabled or supported in server context
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1935,0,0,0,null,0,0,0
+0,0,metrics.icloud.com:443,,"Remote host terminated the handshake
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1390,0,0,0,null,0,0,0
+0,0,metrics.icloud.com:443,,"Remote host terminated the handshake
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1390,0,0,0,null,0,0,0
+0,0,metrics.icloud.com:443,,"Client requested protocol TLSv1 is not enabled or supported in server context
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1935,0,0,0,null,0,0,0
+0,0,metrics.icloud.com:443,,"Remote host terminated the handshake
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1390,0,0,0,null,0,0,0
+0,0,metrics.icloud.com:443,,"Remote host terminated the handshake
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1390,0,0,0,null,0,0,0
+0,0,metrics.icloud.com:443,,"Client requested protocol TLSv1 is not enabled or supported in server context
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1935,0,0,0,null,0,0,0
+1750230690852,294,/socket.io/1/-211,200,OK,,text,true,,582,3142,0,0,https://pub-ent-ince-09-t.trouter.teams.microsoft.com/socket.io/1/?sr=IU8AAPsgXhYeUSRVOE6BdUs8YvgjedA_iWODg0eeh7wRuGeTidxLv7Mjd3UvUEODuKQRkuwqv_VYLjbnYe9lUEdA5JOTBywGV2RjLxUDeUT97Ed0GXI&issuer=prod-2&sp=connect&se=1750803715393&st=1750217444393&scae=1&sig=qiJpSGZOSsw_YtKGSabrGcduL2NUTd3EostP-SMYbPw&v=v4&tc=%7B%22cv%22%3A%222025.20.01.5%22%2C%22ua%22%3A%22TeamsCDL%22%2C%22hr%22%3A%22%22%2C%22v%22%3A%2250%2F25060206612%22%7D&timeout=40&auth=true&epid=e20b0e3b-5afb-46a2-ad76-ecfc1d98a8f4&userActivity=%7B%22state%22%3A%22active%22%2C%22cv%22%3A%22sdNxXnHKqc0ZrkzbpRtrNw.0.7%22%7D&ccid=BdUs8YvgjeQ&cor_id=D49E105E-A1C4-4149-917F-60DE557832D5&con_num=1750222566073_1&t=1750230689956,276,0,177
+1750230691155,191,/socket.io/1/websocket/fea7909d07ac11a3-44416aca2c7c8e91-212,401,Unauthorized,,,false,,406,1237,0,0,https://pub-ent-ince-09-t.trouter.teams.microsoft.com/socket.io/1/websocket/fea7909d07ac11a3-44416aca2c7c8e91?sr=IU8AAPsgXhYeUSRVOE6BdUs8YvgjedA_iWODg0eeh7wRuGeTidxLv7Mjd3UvUEODuKQRkuwqv_VYLjbnYe9lUEdA5JOTBywGV2RjLxUDeUT97Ed0GXI&issuer=prod-2&sp=connect&se=1750803715393&st=1750217444393&scae=1&sig=qiJpSGZOSsw_YtKGSabrGcduL2NUTd3EostP-SMYbPw&v=v4&tc=%7B%22cv%22%3A%222025.20.01.5%22%2C%22ua%22%3A%22TeamsCDL%22%2C%22hr%22%3A%22%22%2C%22v%22%3A%2250%2F25060206612%22%7D&timeout=40&auth=true&epid=e20b0e3b-5afb-46a2-ad76-ecfc1d98a8f4&userActivity=%7B%22state%22%3A%22active%22%2C%22cv%22%3A%22sdNxXnHKqc0ZrkzbpRtrNw.0.7%22%7D&ccid=BdUs8YvgjeQ&cor_id=D49E105E-A1C4-4149-917F-60DE557832D5&con_num=1750222566073_1,191,0,109
+1750230691361,254,"/socket.io/1/xhr-polling/fea7909d07ac11a3-44416aca2c7c8e91?sr=IU8AAPsgXhYeUSRVOE6BdUs8YvgjedA_iWODg0eeh7wRuGeTidxLv7Mjd3UvUEODuKQRkuwqv_VYLjbnYe9lUEdA5JOTBywGV2RjLxUDeUT97Ed0GXI&issuer=prod-2&sp=connect&se=1750803715393&st=1750217444393&scae=1&sig=qiJpSGZOSsw_YtKGSabrGcduL2NUTd3EostP-SMYbPw&v=v4&tc=%7B%22cv%22:%222025.20.01.5%22,%22ua%22:%22TeamsCDL%22,%22hr%22:%22%22,%22v%22:%2250/25060206612%22%7D&timeout=40&auth=true&epid=e20b0e3b-5afb-46a2-ad76-ecfc1d98a8f4&userActivity=%7B%22state%22%3A%22active%22%2C%22cv%22%3A%22sdNxXnHKqc0ZrkzbpRtrNw.0.7%22%7D&ccid=BdUs8YvgjeQ&cor_id=D49E105E-A1C4-4149-917F-60DE557832D5&con_num=1750222566073_1&t=1750230691349-213",204,No Content,,,true,,495,1275,0,0,"https://pub-ent-ince-09-t.trouter.teams.microsoft.com/socket.io/1/xhr-polling/fea7909d07ac11a3-44416aca2c7c8e91?sr=IU8AAPsgXhYeUSRVOE6BdUs8YvgjedA_iWODg0eeh7wRuGeTidxLv7Mjd3UvUEODuKQRkuwqv_VYLjbnYe9lUEdA5JOTBywGV2RjLxUDeUT97Ed0GXI&issuer=prod-2&sp=connect&se=1750803715393&st=1750217444393&scae=1&sig=qiJpSGZOSsw_YtKGSabrGcduL2NUTd3EostP-SMYbPw&v=v4&tc=%7B%22cv%22:%222025.20.01.5%22,%22ua%22:%22TeamsCDL%22,%22hr%22:%22%22,%22v%22:%2250/25060206612%22%7D&timeout=40&auth=true&epid=e20b0e3b-5afb-46a2-ad76-ecfc1d98a8f4&userActivity=%7B%22state%22%3A%22active%22%2C%22cv%22%3A%22sdNxXnHKqc0ZrkzbpRtrNw.0.7%22%7D&ccid=BdUs8YvgjeQ&cor_id=D49E105E-A1C4-4149-917F-60DE557832D5&con_num=1750222566073_1&t=1750230691349",0,0,157
+1750230691626,234,/socket.io/1/xhr-polling/fea7909d07ac11a3-44416aca2c7c8e91-214,200,OK,,text,true,,655,3187,0,0,https://pub-ent-ince-09-t.trouter.teams.microsoft.com/socket.io/1/xhr-polling/fea7909d07ac11a3-44416aca2c7c8e91?sr=IU8AAPsgXhYeUSRVOE6BdUs8YvgjedA_iWODg0eeh7wRuGeTidxLv7Mjd3UvUEODuKQRkuwqv_VYLjbnYe9lUEdA5JOTBywGV2RjLxUDeUT97Ed0GXI&issuer=prod-2&sp=connect&se=1750803715393&st=1750217444393&scae=1&sig=qiJpSGZOSsw_YtKGSabrGcduL2NUTd3EostP-SMYbPw&v=v4&tc=%7B%22cv%22%3A%222025.20.01.5%22%2C%22ua%22%3A%22TeamsCDL%22%2C%22hr%22%3A%22%22%2C%22v%22%3A%2250%2F25060206612%22%7D&timeout=40&auth=true&epid=e20b0e3b-5afb-46a2-ad76-ecfc1d98a8f4&userActivity=%7B%22state%22%3A%22active%22%2C%22cv%22%3A%22sdNxXnHKqc0ZrkzbpRtrNw.0.7%22%7D&ccid=BdUs8YvgjeQ&cor_id=D49E105E-A1C4-4149-917F-60DE557832D5&con_num=1750222566073_1&t=1750230691349,234,0,143
+1750230691869,193,"/socket.io/1/xhr-polling/fea7909d07ac11a3-44416aca2c7c8e91?sr=IU8AAPsgXhYeUSRVOE6BdUs8YvgjedA_iWODg0eeh7wRuGeTidxLv7Mjd3UvUEODuKQRkuwqv_VYLjbnYe9lUEdA5JOTBywGV2RjLxUDeUT97Ed0GXI&issuer=prod-2&sp=connect&se=1750803715393&st=1750217444393&scae=1&sig=qiJpSGZOSsw_YtKGSabrGcduL2NUTd3EostP-SMYbPw&v=v4&tc=%7B%22cv%22:%222025.20.01.5%22,%22ua%22:%22TeamsCDL%22,%22hr%22:%22%22,%22v%22:%2250/25060206612%22%7D&timeout=40&auth=true&epid=e20b0e3b-5afb-46a2-ad76-ecfc1d98a8f4&userActivity=%7B%22state%22%3A%22active%22%2C%22cv%22%3A%22sdNxXnHKqc0ZrkzbpRtrNw.0.7%22%7D&ccid=BdUs8YvgjeQ&cor_id=D49E105E-A1C4-4149-917F-60DE557832D5&con_num=1750222566073_1&connected=true&t=1750230691865-215",204,No Content,,,true,,495,1290,0,0,"https://pub-ent-ince-09-t.trouter.teams.microsoft.com/socket.io/1/xhr-polling/fea7909d07ac11a3-44416aca2c7c8e91?sr=IU8AAPsgXhYeUSRVOE6BdUs8YvgjedA_iWODg0eeh7wRuGeTidxLv7Mjd3UvUEODuKQRkuwqv_VYLjbnYe9lUEdA5JOTBywGV2RjLxUDeUT97Ed0GXI&issuer=prod-2&sp=connect&se=1750803715393&st=1750217444393&scae=1&sig=qiJpSGZOSsw_YtKGSabrGcduL2NUTd3EostP-SMYbPw&v=v4&tc=%7B%22cv%22:%222025.20.01.5%22,%22ua%22:%22TeamsCDL%22,%22hr%22:%22%22,%22v%22:%2250/25060206612%22%7D&timeout=40&auth=true&epid=e20b0e3b-5afb-46a2-ad76-ecfc1d98a8f4&userActivity=%7B%22state%22%3A%22active%22%2C%22cv%22%3A%22sdNxXnHKqc0ZrkzbpRtrNw.0.7%22%7D&ccid=BdUs8YvgjeQ&cor_id=D49E105E-A1C4-4149-917F-60DE557832D5&con_num=1750222566073_1&connected=true&t=1750230691865",0,0,118
+1750230691870,298,/registrar/prod/V2/registrations-216,202,Accepted,,,true,,553,3426,0,0,https://teams.microsoft.com/registrar/prod/V2/registrations,298,0,73
+1750230692179,262,/ups/apac/v1/me/endpoints/-218,200,OK,,,true,,568,3469,0,0,https://teams.microsoft.com/ups/apac/v1/me/endpoints/,262,0,89
+1750230692800,558,/cdn-cgi/challenge-platform/h/g/flow/ov1/738170320:1750227664:jU_I7u5cHSHhfwnYRJyR1uDB4qiVXMbvEK4geZ2nEFU/9518f8edac007f65/E4LJlO3ccfERlps2ijnKo5YJk0Py7xAuVIm7E.F8k04-1750230683-1.2.1.1-V2SLF7bahPAty7K4p8YMZIJfciXOOtKKpQbG3ye1RKj3NmwjWrjCBt_ASbALkguw-219,200,OK,,text,true,,5747,39510,0,0,https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/flow/ov1/738170320:1750227664:jU_I7u5cHSHhfwnYRJyR1uDB4qiVXMbvEK4geZ2nEFU/9518f8edac007f65/E4LJlO3ccfERlps2ijnKo5YJk0Py7xAuVIm7E.F8k04-1750230683-1.2.1.1-V2SLF7bahPAty7K4p8YMZIJfciXOOtKKpQbG3ye1RKj3NmwjWrjCBt_ASbALkguw,558,0,132
+1750230693429,301,/cdn-cgi/challenge-platform/h/g/flow/ov1/1709565260:1750227572:Lp45e6361U5l1_PgE9pdrEwhbQcdQJJLYczP-jPluss/9518f8d28a407f00/xVm8S0YCBxTOZ7_VTsNaqENA_npaUTEQwLd1COv.8L8-1750230679-1.2.1.1-ZCo.e_oemn.430tDMLcIQVwLWmumsHNise_8T8qzKwRXzx.P9lXTpR8fb_pEpmF0-220,200,OK,,text,true,,5516,7234,0,0,https://demo.nopcommerce.com/cdn-cgi/challenge-platform/h/g/flow/ov1/1709565260:1750227572:Lp45e6361U5l1_PgE9pdrEwhbQcdQJJLYczP-jPluss/9518f8d28a407f00/xVm8S0YCBxTOZ7_VTsNaqENA_npaUTEQwLd1COv.8L8-1750230679-1.2.1.1-ZCo.e_oemn.430tDMLcIQVwLWmumsHNise_8T8qzKwRXzx.P9lXTpR8fb_pEpmF0,301,0,61
+0,0,gateway.icloud.com:443,,"Connection reset
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1406,0,0,0,null,0,0,0
+0,0,gateway.icloud.com:443,,"Connection reset
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1406,0,0,0,null,0,0,0
+0,0,gateway.icloud.com:443,,"Client requested protocol TLSv1 is not enabled or supported in server context
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1935,0,0,0,null,0,0,0
+1750230693760,1359,/-221,200,OK,,text,true,,9329,8362,0,0,https://demo.nopcommerce.com/,1359,0,80
+1750230695233,206,/cdn-cgi/rum?-222,204,No Content,,,true,,377,3715,0,0,https://demo.nopcommerce.com/cdn-cgi/rum?,0,0,116
+1750230695293,172,/cdn-cgi/rum?-225,204,No Content,,,true,,377,3714,0,0,https://demo.nopcommerce.com/cdn-cgi/rum?,0,0,88
+1750230695271,219,/cdn-cgi/challenge-platform/h/g/jsd/r/0.38264803003944764:1750227439:K8VNsGhIHz_uuZNuJd8fgADV6UVTgkoRe1-HQg38k6I/9518f92cde877e73-223,200,OK,,text,true,,1351,15753,0,0,https://demo.nopcommerce.com/cdn-cgi/challenge-platform/h/g/jsd/r/0.38264803003944764:1750227439:K8VNsGhIHz_uuZNuJd8fgADV6UVTgkoRe1-HQg38k6I/9518f92cde877e73,219,0,71
+1750230695290,211,/cdn-cgi/challenge-platform/h/g/jsd/r/0.38264803003944764:1750227439:K8VNsGhIHz_uuZNuJd8fgADV6UVTgkoRe1-HQg38k6I/9518f92cde877e73-224,200,OK,,text,true,,1355,15753,0,0,https://demo.nopcommerce.com/cdn-cgi/challenge-platform/h/g/jsd/r/0.38264803003944764:1750227439:K8VNsGhIHz_uuZNuJd8fgADV6UVTgkoRe1-HQg38k6I/9518f92cde877e73,211,0,91
+1750230698854,244,/cdn-cgi/rum?-226,204,No Content,,,true,,377,3170,0,0,https://demo.nopcommerce.com/cdn-cgi/rum?,0,0,148
+1750230752125,753,/-227,200,OK,,text,true,,8971,2046,0,0,https://demo.nopcommerce.com/,753,0,282
+1750230752975,178,/cdn-cgi/rum?-228,204,No Content,,,true,,377,3500,0,0,https://demo.nopcommerce.com/cdn-cgi/rum?,0,0,110
+1750230753006,203,/cdn-cgi/rum?-229,204,No Content,,,true,,377,3516,0,0,https://demo.nopcommerce.com/cdn-cgi/rum?,0,0,107
+0,0,gateway.icloud.com:443,,"Remote host terminated the handshake
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1390,0,0,0,null,0,0,0
+0,0,gateway.icloud.com:443,,"Remote host terminated the handshake
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1390,0,0,0,null,0,0,0
+0,0,gateway.icloud.com:443,,"Client requested protocol TLSv1 is not enabled or supported in server context
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1935,0,0,0,null,0,0,0
+1750230755226,411,/config/v1/Teams/50_25122.1207.3700.1444_25060206612?AADUserID=orgid%3Aebef4526-99b8-4a22-843b-948ec4b3cf32&AudienceGroup=general&CLRelease=2025.16.01.23&CLVersion=releases%2FCL2025.R16&CPUBrand=Apple%20M2&CPUCoreCount=8&CPUCount=8&CPUFamily=0&CPUModel=0&CPUName=non-intel&CPUSpeedMHz=2420&CPUStepping=0&CPUVendor=ARM64&FormFactor=LAPTOP&GPUDeviceId=0&GPURevision=0&GPUSubSystemId=0&GPUVendor=0&Manufacturer=apple&Model=Mac14%2C2&NodeId=4848132856641009659&OSVer=15.5.0&Region=in&ResourceID=&SystemMemory=14491&TeamsRing=general&TenantID=40f9381b-eb71-49a2-b25a-e700d481d5c1&UserID=orgid%3Aebef4526-99b8-4a22-843b-948ec4b3cf32&VdiVendorType=0&VdiVmss=0&global.os=Mac%20OS-X%20Darwin%2024.5.0-230,200,OK,,,true,,908,1285,0,0,https://config.teams.microsoft.com/config/v1/Teams/50_25122.1207.3700.1444_25060206612?AADUserID=orgid%3Aebef4526-99b8-4a22-843b-948ec4b3cf32&AudienceGroup=general&CLRelease=2025.16.01.23&CLVersion=releases%2FCL2025.R16&CPUBrand=Apple%20M2&CPUCoreCount=8&CPUCount=8&CPUFamily=0&CPUModel=0&CPUName=non-intel&CPUSpeedMHz=2420&CPUStepping=0&CPUVendor=ARM64&FormFactor=LAPTOP&GPUDeviceId=0&GPURevision=0&GPUSubSystemId=0&GPUVendor=0&Manufacturer=apple&Model=Mac14%2C2&NodeId=4848132856641009659&OSVer=15.5.0&Region=in&ResourceID=&SystemMemory=14491&TeamsRing=general&TenantID=40f9381b-eb71-49a2-b25a-e700d481d5c1&UserID=orgid%3Aebef4526-99b8-4a22-843b-948ec4b3cf32&VdiVendorType=0&VdiVmss=0&global.os=Mac%20OS-X%20Darwin%2024.5.0,411,0,162
+1750230755649,452,/config/v1/Teams/50_25122.1207.3700.1444_25060206612-232,200,OK,,text,true,,80460,1430,0,0,https://config.teams.microsoft.com/config/v1/Teams/50_25122.1207.3700.1444_25060206612?AADUserID=orgid%3Aebef4526-99b8-4a22-843b-948ec4b3cf32&AudienceGroup=general&CLRelease=2025.16.01.23&CLVersion=releases%2FCL2025.R16&CPUBrand=Apple+M2&CPUCoreCount=8&CPUCount=8&CPUFamily=0&CPUModel=0&CPUName=non-intel&CPUSpeedMHz=2420&CPUStepping=0&CPUVendor=ARM64&FormFactor=LAPTOP&GPUDeviceId=0&GPURevision=0&GPUSubSystemId=0&GPUVendor=0&Manufacturer=apple&Model=Mac14%2C2&NodeId=4848132856641009659&OSVer=15.5.0&Region=in&ResourceID=&SystemMemory=14491&TeamsRing=general&TenantID=40f9381b-eb71-49a2-b25a-e700d481d5c1&UserID=orgid%3Aebef4526-99b8-4a22-843b-948ec4b3cf32&VdiVendorType=0&VdiVmss=0&global.os=Mac+OS-X+Darwin+24.5.0,452,0,109
+1750230755430,1460,/logout-231,302,Found,,,true,,2007,2099,0,0,https://demo.nopcommerce.com/logout,1460,0,102
+1750230756905,916,/-233,200,OK,,text,true,,8957,1489,0,0,https://demo.nopcommerce.com/,916,0,116
+1750230757858,192,/cdn-cgi/rum?-234,204,No Content,,,true,,377,2428,0,0,https://demo.nopcommerce.com/cdn-cgi/rum?,0,0,107
+1750230757908,279,/cdn-cgi/rum?-236,204,No Content,,,true,,377,2987,0,0,https://demo.nopcommerce.com/cdn-cgi/rum?,0,0,103
+1750230757892,295,/cdn-cgi/rum?-235,204,No Content,,,true,,377,2971,0,0,https://demo.nopcommerce.com/cdn-cgi/rum?,0,0,119
+1750230758876,157,/cdn-cgi/rum?-238,204,No Content,,,true,,377,2465,0,0,https://demo.nopcommerce.com/cdn-cgi/rum?,0,0,94
+0,0,gateway.icloud.com:443,,"Remote host terminated the handshake
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1390,0,0,0,null,0,0,0
+0,0,gateway.icloud.com:443,,"Connection reset
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1406,0,0,0,null,0,0,0
+0,0,gateway.icloud.com:443,,"Client requested protocol TLSv1 is not enabled or supported in server context
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1935,0,0,0,null,0,0,0
+1750230787043,1795,/-240,200,OK,,text,true,,8948,1442,0,0,https://demo.nopcommerce.com/,1795,0,239
+1750230788932,216,/cdn-cgi/rum?-241,204,No Content,,,true,,377,2908,0,0,https://demo.nopcommerce.com/cdn-cgi/rum?,0,0,125
+1750230788956,206,/cdn-cgi/rum?-242,204,No Content,,,true,,377,2924,0,0,https://demo.nopcommerce.com/cdn-cgi/rum?,0,0,130
+1750230789967,178,/cdn-cgi/rum?-243,204,No Content,,,true,,377,2432,0,0,https://demo.nopcommerce.com/cdn-cgi/rum?,0,0,122
+1750230790870,696,/Collector/3.0/-244,400,Exception while decoding the payload,,,false,,494,2327,0,0,https://teams.events.data.microsoft.com/Collector/3.0/,696,0,406
+1750230793957,239,/g/collect?v=2&tid=G-SCT41TW89V&gtm=45je56g0v9103325025za200&_p=1750230788883&gcd=13l3l3l3l1l1&npa=0&dma=0&tag_exp=101509157~103116026~103200004~103233427~103351869~103351871~104617979~104617981~104684204~104684207~104718208~104736445~104736447~104757984&cid=841818968.1750230425&ul=en-us&sr=1470x956&frm=0&pscdl=noapi&_eu=AAAAAAQ&_s=1&sid=1750230425&sct=1&seg=1&dl=https%3A%2F%2Fdemo.nopcommerce.com%2F&dt=nopCommerce%20demo%20store.%20Home%20page%20title&en=page_view&_ee=1&tfd=6910-245,204,No Content,,text,true,,831,977,0,0,https://www.google-analytics.com/g/collect?v=2&tid=G-SCT41TW89V&gtm=45je56g0v9103325025za200&_p=1750230788883&gcd=13l3l3l3l1l1&npa=0&dma=0&tag_exp=101509157~103116026~103200004~103233427~103351869~103351871~104617979~104617981~104684204~104684207~104718208~104736445~104736447~104757984&cid=841818968.1750230425&ul=en-us&sr=1470x956&frm=0&pscdl=noapi&_eu=AAAAAAQ&_s=1&sid=1750230425&sct=1&seg=1&dl=https%3A%2F%2Fdemo.nopcommerce.com%2F&dt=nopCommerce%20demo%20store.%20Home%20page%20title&en=page_view&_ee=1&tfd=6910,0,0,138
+0,0,gs-loc.apple.com:443,,"Received fatal alert: certificate_unknown
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1274,0,0,0,null,0,0,0
+0,0,gs-loc.apple.com:443,,"Remote host terminated the handshake
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1390,0,0,0,null,0,0,0
+1750230794587,682,/register-246,200,OK,,text,true,,7500,1511,0,0,https://demo.nopcommerce.com/register?returnUrl=%2F,682,0,136
+1750230795306,184,/g/collect?v=2&tid=G-SCT41TW89V&gtm=45je56g0v9103325025za200&_p=1750230788883&gcd=13l3l3l3l1l1&npa=0&dma=0&tag_exp=101509157~103116026~103200004~103233427~103351869~103351871~104617979~104617981~104684204~104684207~104718208~104736445~104736447~104757984&cid=841818968.1750230425&ul=en-us&sr=1470x956&frm=0&pscdl=noapi&_eu=AAAAAAQ&_s=2&sid=1750230425&sct=1&seg=1&dl=https%3A%2F%2Fdemo.nopcommerce.com%2F&dt=nopCommerce%20demo%20store.%20Home%20page%20title&en=user_engagement&_et=2899&tfd=8258-247,204,No Content,,text,true,,831,986,0,0,https://www.google-analytics.com/g/collect?v=2&tid=G-SCT41TW89V&gtm=45je56g0v9103325025za200&_p=1750230788883&gcd=13l3l3l3l1l1&npa=0&dma=0&tag_exp=101509157~103116026~103200004~103233427~103351869~103351871~104617979~104617981~104684204~104684207~104718208~104736445~104736447~104757984&cid=841818968.1750230425&ul=en-us&sr=1470x956&frm=0&pscdl=noapi&_eu=AAAAAAQ&_s=2&sid=1750230425&sct=1&seg=1&dl=https%3A%2F%2Fdemo.nopcommerce.com%2F&dt=nopCommerce%20demo%20store.%20Home%20page%20title&en=user_engagement&_et=2899&tfd=8258,0,0,99
+1750230795357,160,/cdn-cgi/rum?-249,204,No Content,,,true,,377,3091,0,0,https://demo.nopcommerce.com/cdn-cgi/rum?,0,0,100
+1750230795346,171,/cdn-cgi/rum?-248,204,No Content,,,true,,377,3091,0,0,https://demo.nopcommerce.com/cdn-cgi/rum?,0,0,111
+1750230796252,504,/-250,200,OK,,text,true,,499,721,0,0,https://go.trouter.teams.microsoft.com/?check=1750230796239&cor_id=D49E105E-A1C4-4149-917F-60DE557832D5&epid=e20b0e3b-5afb-46a2-ad76-ecfc1d98a8f4&tc=%7B%22cv%22%3A%222025.20.01.5%22%2C%22ua%22%3A%22TeamsCDL%22%2C%22hr%22%3A%22%22%2C%22v%22%3A%2250%2F25060206612%22%7D,503,0,355
+1750230796771,258,/v4/c-251,400,Bad Request,,,false,,405,846,0,0,https://pub-ent-ince-09-t.trouter.teams.microsoft.com/v4/c?tc=%7B%22cv%22%3A%222025.20.01.5%22%2C%22ua%22%3A%22TeamsCDL%22%2C%22hr%22%3A%22%22%2C%22v%22%3A%2250%2F25060206612%22%7D&timeout=40&epid=e20b0e3b-5afb-46a2-ad76-ecfc1d98a8f4&ccid=BdUs8YvgjeQ&cor_id=D49E105E-A1C4-4149-917F-60DE557832D5&con_num=1750222566073_2,258,0,195
+1750230800355,192,/g/collect?v=2&tid=G-SCT41TW89V&gtm=45je56g0v9103325025za200&_p=1750230795306&gcd=13l3l3l3l1l1&npa=0&dma=0&tag_exp=101509157~103116026~103200004~103233427~103351869~103351871~104617979~104617981~104684204~104684207~104718208~104736445~104736447~104757984&cid=841818968.1750230425&ul=en-us&sr=1470x956&frm=0&pscdl=noapi&_eu=AAAAAAQ&_s=1&sid=1750230425&sct=1&seg=1&dl=https%3A%2F%2Fdemo.nopcommerce.com%2Fregister%3FreturnUrl%3D%252F&dr=https%3A%2F%2Fdemo.nopcommerce.com%2F&dt=nopCommerce%20demo%20store.%20Register&en=page_view&_ee=1&tfd=6173-252,204,No Content,,text,true,,831,1035,0,0,https://www.google-analytics.com/g/collect?v=2&tid=G-SCT41TW89V&gtm=45je56g0v9103325025za200&_p=1750230795306&gcd=13l3l3l3l1l1&npa=0&dma=0&tag_exp=101509157~103116026~103200004~103233427~103351869~103351871~104617979~104617981~104684204~104684207~104718208~104736445~104736447~104757984&cid=841818968.1750230425&ul=en-us&sr=1470x956&frm=0&pscdl=noapi&_eu=AAAAAAQ&_s=1&sid=1750230425&sct=1&seg=1&dl=https%3A%2F%2Fdemo.nopcommerce.com%2Fregister%3FreturnUrl%3D%252F&dr=https%3A%2F%2Fdemo.nopcommerce.com%2F&dt=nopCommerce%20demo%20store.%20Register&en=page_view&_ee=1&tfd=6173,0,0,116
+1750230806455,233,/g/collect?v=2&tid=G-SCT41TW89V&gtm=45je56g0v9103325025za200&_p=1750230795306&gcd=13l3l3l3l1l1&npa=0&dma=0&tag_exp=101509157~103116026~103200004~103233427~103351869~103351871~104617979~104617981~104684204~104684207~104718208~104736445~104736447~104757984&cid=841818968.1750230425&ul=en-us&sr=1470x956&frm=0&pscdl=noapi&_eu=AEEAAAQ&_s=2&sid=1750230425&sct=1&seg=1&dl=https%3A%2F%2Fdemo.nopcommerce.com%2Fregister%3FreturnUrl%3D%252F&dr=https%3A%2F%2Fdemo.nopcommerce.com%2F&dt=nopCommerce%20demo%20store.%20Register&en=form_start&ep.form_id=&ep.form_name=&ep.form_destination=https%3A%2F%2Fdemo.nopcommerce.com%2Fregister%3Freturnurl%3D%252F&epn.form_length=12&ep.first_field_id=FirstName&ep.first_field_name=FirstName&ep.first_field_type=text&epn.first_field_position=3&_et=6099&tfd=12272-253,204,No Content,,text,true,,831,1281,0,0,https://www.google-analytics.com/g/collect?v=2&tid=G-SCT41TW89V&gtm=45je56g0v9103325025za200&_p=1750230795306&gcd=13l3l3l3l1l1&npa=0&dma=0&tag_exp=101509157~103116026~103200004~103233427~103351869~103351871~104617979~104617981~104684204~104684207~104718208~104736445~104736447~104757984&cid=841818968.1750230425&ul=en-us&sr=1470x956&frm=0&pscdl=noapi&_eu=AEEAAAQ&_s=2&sid=1750230425&sct=1&seg=1&dl=https%3A%2F%2Fdemo.nopcommerce.com%2Fregister%3FreturnUrl%3D%252F&dr=https%3A%2F%2Fdemo.nopcommerce.com%2F&dt=nopCommerce%20demo%20store.%20Register&en=form_start&ep.form_id=&ep.form_name=&ep.form_destination=https%3A%2F%2Fdemo.nopcommerce.com%2Fregister%3Freturnurl%3D%252F&epn.form_length=12&ep.first_field_id=FirstName&ep.first_field_name=FirstName&ep.first_field_type=text&epn.first_field_position=3&_et=6099&tfd=12272,0,0,154
+1750230807981,225,/diagnostics/network?cb=1750230807963-254,200,OK,,text,true,,630,1042,0,0,https://teams.microsoft.com/diagnostics/network?cb=1750230807963,0,0,185
+1750230808231,209,/v4/a?cor_id=D49E105E-A1C4-4149-917F-60DE557832D5&con_num=1750222566073_3&epid=e20b0e3b-5afb-46a2-ad76-ecfc1d98a8f4&sr=IU8AAPsgXhYeUSRVOE6BdUs8YvgjedA_iWODg0eeh7wRuGeTidxLv7Mjd3UvUEODuKQRkuwqv_VYLjbnYe9lUEdA5JOTBywGV2RjLxUDeUT97Ed0GXI&issuer=prod-2&sp=connect&se=1750803715393&st=1750217444393&scae=1&sig=qiJpSGZOSsw_YtKGSabrGcduL2NUTd3EostP-SMYbPw&v=v4-255,204,No Content,,,true,,496,971,0,0,https://pub-ent-ince-09-t.trouter.teams.microsoft.com/v4/a?cor_id=D49E105E-A1C4-4149-917F-60DE557832D5&con_num=1750222566073_3&epid=e20b0e3b-5afb-46a2-ad76-ecfc1d98a8f4&sr=IU8AAPsgXhYeUSRVOE6BdUs8YvgjedA_iWODg0eeh7wRuGeTidxLv7Mjd3UvUEODuKQRkuwqv_VYLjbnYe9lUEdA5JOTBywGV2RjLxUDeUT97Ed0GXI&issuer=prod-2&sp=connect&se=1750803715393&st=1750217444393&scae=1&sig=qiJpSGZOSsw_YtKGSabrGcduL2NUTd3EostP-SMYbPw&v=v4,0,0,145
+1750230808456,199,/v4/a?cor_id=D49E105E-A1C4-4149-917F-60DE557832D5&con_num=1750222566073_3&epid=e20b0e3b-5afb-46a2-ad76-ecfc1d98a8f4&sr=IU8AAPsgXhYeUSRVOE6BdUs8YvgjedA_iWODg0eeh7wRuGeTidxLv7Mjd3UvUEODuKQRkuwqv_VYLjbnYe9lUEdA5JOTBywGV2RjLxUDeUT97Ed0GXI&issuer=prod-2&sp=connect&se=1750803715393&st=1750217444393&scae=1&sig=qiJpSGZOSsw_YtKGSabrGcduL2NUTd3EostP-SMYbPw&v=v4-256,200,OK,,text,true,,882,2912,0,0,https://pub-ent-ince-09-t.trouter.teams.microsoft.com/v4/a?cor_id=D49E105E-A1C4-4149-917F-60DE557832D5&con_num=1750222566073_3&epid=e20b0e3b-5afb-46a2-ad76-ecfc1d98a8f4&sr=IU8AAPsgXhYeUSRVOE6BdUs8YvgjedA_iWODg0eeh7wRuGeTidxLv7Mjd3UvUEODuKQRkuwqv_VYLjbnYe9lUEdA5JOTBywGV2RjLxUDeUT97Ed0GXI&issuer=prod-2&sp=connect&se=1750803715393&st=1750217444393&scae=1&sig=qiJpSGZOSsw_YtKGSabrGcduL2NUTd3EostP-SMYbPw&v=v4,198,0,116
+1750230808666,217,"/socket.io/1/?sr=IU8AAPsgXhYeUSRVOE6BdUs8YvgjedA_iWODg0eeh7wRuGeTidxLv7Mjd3UvUEODuKQRkuwqv_VYLjbnYe9lUEdA5JOTBywGV2RjLxUDeUT97Ed0GXI&issuer=prod-2&sp=connect&se=1750803715393&st=1750217444393&scae=1&sig=qiJpSGZOSsw_YtKGSabrGcduL2NUTd3EostP-SMYbPw&v=v4&tc=%7B%22cv%22:%222025.20.01.5%22,%22ua%22:%22TeamsCDL%22,%22hr%22:%22%22,%22v%22:%2250/25060206612%22%7D&timeout=40&auth=true&epid=e20b0e3b-5afb-46a2-ad76-ecfc1d98a8f4&userActivity=%7B%22state%22%3A%22active%22%2C%22cv%22%3A%22sdNxXnHKqc0ZrkzbpRtrNw.0.8%22%7D&ccid=BdUs8YvgjeQ&cor_id=D49E105E-A1C4-4149-917F-60DE557832D5&con_num=1750222566073_3&t=1750230808658-257",204,No Content,,,true,,495,1230,0,0,"https://pub-ent-ince-09-t.trouter.teams.microsoft.com/socket.io/1/?sr=IU8AAPsgXhYeUSRVOE6BdUs8YvgjedA_iWODg0eeh7wRuGeTidxLv7Mjd3UvUEODuKQRkuwqv_VYLjbnYe9lUEdA5JOTBywGV2RjLxUDeUT97Ed0GXI&issuer=prod-2&sp=connect&se=1750803715393&st=1750217444393&scae=1&sig=qiJpSGZOSsw_YtKGSabrGcduL2NUTd3EostP-SMYbPw&v=v4&tc=%7B%22cv%22:%222025.20.01.5%22,%22ua%22:%22TeamsCDL%22,%22hr%22:%22%22,%22v%22:%2250/25060206612%22%7D&timeout=40&auth=true&epid=e20b0e3b-5afb-46a2-ad76-ecfc1d98a8f4&userActivity=%7B%22state%22%3A%22active%22%2C%22cv%22%3A%22sdNxXnHKqc0ZrkzbpRtrNw.0.8%22%7D&ccid=BdUs8YvgjeQ&cor_id=D49E105E-A1C4-4149-917F-60DE557832D5&con_num=1750222566073_3&t=1750230808658",0,0,153
+1750230808888,178,/socket.io/1/-258,200,OK,,text,true,,582,3142,0,0,https://pub-ent-ince-09-t.trouter.teams.microsoft.com/socket.io/1/?sr=IU8AAPsgXhYeUSRVOE6BdUs8YvgjedA_iWODg0eeh7wRuGeTidxLv7Mjd3UvUEODuKQRkuwqv_VYLjbnYe9lUEdA5JOTBywGV2RjLxUDeUT97Ed0GXI&issuer=prod-2&sp=connect&se=1750803715393&st=1750217444393&scae=1&sig=qiJpSGZOSsw_YtKGSabrGcduL2NUTd3EostP-SMYbPw&v=v4&tc=%7B%22cv%22%3A%222025.20.01.5%22%2C%22ua%22%3A%22TeamsCDL%22%2C%22hr%22%3A%22%22%2C%22v%22%3A%2250%2F25060206612%22%7D&timeout=40&auth=true&epid=e20b0e3b-5afb-46a2-ad76-ecfc1d98a8f4&userActivity=%7B%22state%22%3A%22active%22%2C%22cv%22%3A%22sdNxXnHKqc0ZrkzbpRtrNw.0.8%22%7D&ccid=BdUs8YvgjeQ&cor_id=D49E105E-A1C4-4149-917F-60DE557832D5&con_num=1750222566073_3&t=1750230808658,177,0,114
+1750230809071,203,/socket.io/1/websocket/b2a12db605a0223d-430ed2310c4ae25e-260,401,Unauthorized,,,false,,406,1237,0,0,https://pub-ent-ince-09-t.trouter.teams.microsoft.com/socket.io/1/websocket/b2a12db605a0223d-430ed2310c4ae25e?sr=IU8AAPsgXhYeUSRVOE6BdUs8YvgjedA_iWODg0eeh7wRuGeTidxLv7Mjd3UvUEODuKQRkuwqv_VYLjbnYe9lUEdA5JOTBywGV2RjLxUDeUT97Ed0GXI&issuer=prod-2&sp=connect&se=1750803715393&st=1750217444393&scae=1&sig=qiJpSGZOSsw_YtKGSabrGcduL2NUTd3EostP-SMYbPw&v=v4&tc=%7B%22cv%22%3A%222025.20.01.5%22%2C%22ua%22%3A%22TeamsCDL%22%2C%22hr%22%3A%22%22%2C%22v%22%3A%2250%2F25060206612%22%7D&timeout=40&auth=true&epid=e20b0e3b-5afb-46a2-ad76-ecfc1d98a8f4&userActivity=%7B%22state%22%3A%22active%22%2C%22cv%22%3A%22sdNxXnHKqc0ZrkzbpRtrNw.0.8%22%7D&ccid=BdUs8YvgjeQ&cor_id=D49E105E-A1C4-4149-917F-60DE557832D5&con_num=1750222566073_3,203,0,129
+1750230809280,219,"/socket.io/1/xhr-polling/b2a12db605a0223d-430ed2310c4ae25e?sr=IU8AAPsgXhYeUSRVOE6BdUs8YvgjedA_iWODg0eeh7wRuGeTidxLv7Mjd3UvUEODuKQRkuwqv_VYLjbnYe9lUEdA5JOTBywGV2RjLxUDeUT97Ed0GXI&issuer=prod-2&sp=connect&se=1750803715393&st=1750217444393&scae=1&sig=qiJpSGZOSsw_YtKGSabrGcduL2NUTd3EostP-SMYbPw&v=v4&tc=%7B%22cv%22:%222025.20.01.5%22,%22ua%22:%22TeamsCDL%22,%22hr%22:%22%22,%22v%22:%2250/25060206612%22%7D&timeout=40&auth=true&epid=e20b0e3b-5afb-46a2-ad76-ecfc1d98a8f4&userActivity=%7B%22state%22%3A%22active%22%2C%22cv%22%3A%22sdNxXnHKqc0ZrkzbpRtrNw.0.8%22%7D&ccid=BdUs8YvgjeQ&cor_id=D49E105E-A1C4-4149-917F-60DE557832D5&con_num=1750222566073_3&t=1750230809274-262",204,No Content,,,true,,495,1275,0,0,"https://pub-ent-ince-09-t.trouter.teams.microsoft.com/socket.io/1/xhr-polling/b2a12db605a0223d-430ed2310c4ae25e?sr=IU8AAPsgXhYeUSRVOE6BdUs8YvgjedA_iWODg0eeh7wRuGeTidxLv7Mjd3UvUEODuKQRkuwqv_VYLjbnYe9lUEdA5JOTBywGV2RjLxUDeUT97Ed0GXI&issuer=prod-2&sp=connect&se=1750803715393&st=1750217444393&scae=1&sig=qiJpSGZOSsw_YtKGSabrGcduL2NUTd3EostP-SMYbPw&v=v4&tc=%7B%22cv%22:%222025.20.01.5%22,%22ua%22:%22TeamsCDL%22,%22hr%22:%22%22,%22v%22:%2250/25060206612%22%7D&timeout=40&auth=true&epid=e20b0e3b-5afb-46a2-ad76-ecfc1d98a8f4&userActivity=%7B%22state%22%3A%22active%22%2C%22cv%22%3A%22sdNxXnHKqc0ZrkzbpRtrNw.0.8%22%7D&ccid=BdUs8YvgjeQ&cor_id=D49E105E-A1C4-4149-917F-60DE557832D5&con_num=1750222566073_3&t=1750230809274",0,0,137
+1750230809058,552,/calendar/dav/2k21it50%40kiot.ac.in/user/-259,200,OK,,text,true,,591,486,0,0,https://calendar.google.com/calendar/dav/2k21it50%40kiot.ac.in/user/,552,0,95
+1750230809082,569,/calendar/dav/karansevvel%40gmail.com/user/-261,200,OK,,text,true,,591,488,0,0,https://calendar.google.com/calendar/dav/karansevvel%40gmail.com/user/,569,0,122
+1750230809504,218,/socket.io/1/xhr-polling/b2a12db605a0223d-430ed2310c4ae25e-263,200,OK,,text,true,,657,3187,0,0,https://pub-ent-ince-09-t.trouter.teams.microsoft.com/socket.io/1/xhr-polling/b2a12db605a0223d-430ed2310c4ae25e?sr=IU8AAPsgXhYeUSRVOE6BdUs8YvgjedA_iWODg0eeh7wRuGeTidxLv7Mjd3UvUEODuKQRkuwqv_VYLjbnYe9lUEdA5JOTBywGV2RjLxUDeUT97Ed0GXI&issuer=prod-2&sp=connect&se=1750803715393&st=1750217444393&scae=1&sig=qiJpSGZOSsw_YtKGSabrGcduL2NUTd3EostP-SMYbPw&v=v4&tc=%7B%22cv%22%3A%222025.20.01.5%22%2C%22ua%22%3A%22TeamsCDL%22%2C%22hr%22%3A%22%22%2C%22v%22%3A%2250%2F25060206612%22%7D&timeout=40&auth=true&epid=e20b0e3b-5afb-46a2-ad76-ecfc1d98a8f4&userActivity=%7B%22state%22%3A%22active%22%2C%22cv%22%3A%22sdNxXnHKqc0ZrkzbpRtrNw.0.8%22%7D&ccid=BdUs8YvgjeQ&cor_id=D49E105E-A1C4-4149-917F-60DE557832D5&con_num=1750222566073_3&t=1750230809274,218,0,140
+1750230809730,215,"/socket.io/1/xhr-polling/b2a12db605a0223d-430ed2310c4ae25e?sr=IU8AAPsgXhYeUSRVOE6BdUs8YvgjedA_iWODg0eeh7wRuGeTidxLv7Mjd3UvUEODuKQRkuwqv_VYLjbnYe9lUEdA5JOTBywGV2RjLxUDeUT97Ed0GXI&issuer=prod-2&sp=connect&se=1750803715393&st=1750217444393&scae=1&sig=qiJpSGZOSsw_YtKGSabrGcduL2NUTd3EostP-SMYbPw&v=v4&tc=%7B%22cv%22:%222025.20.01.5%22,%22ua%22:%22TeamsCDL%22,%22hr%22:%22%22,%22v%22:%2250/25060206612%22%7D&timeout=40&auth=true&epid=e20b0e3b-5afb-46a2-ad76-ecfc1d98a8f4&userActivity=%7B%22state%22%3A%22active%22%2C%22cv%22%3A%22sdNxXnHKqc0ZrkzbpRtrNw.0.8%22%7D&ccid=BdUs8YvgjeQ&cor_id=D49E105E-A1C4-4149-917F-60DE557832D5&con_num=1750222566073_3&connected=true&t=1750230809725-265",204,No Content,,,true,,495,1290,0,0,"https://pub-ent-ince-09-t.trouter.teams.microsoft.com/socket.io/1/xhr-polling/b2a12db605a0223d-430ed2310c4ae25e?sr=IU8AAPsgXhYeUSRVOE6BdUs8YvgjedA_iWODg0eeh7wRuGeTidxLv7Mjd3UvUEODuKQRkuwqv_VYLjbnYe9lUEdA5JOTBywGV2RjLxUDeUT97Ed0GXI&issuer=prod-2&sp=connect&se=1750803715393&st=1750217444393&scae=1&sig=qiJpSGZOSsw_YtKGSabrGcduL2NUTd3EostP-SMYbPw&v=v4&tc=%7B%22cv%22:%222025.20.01.5%22,%22ua%22:%22TeamsCDL%22,%22hr%22:%22%22,%22v%22:%2250/25060206612%22%7D&timeout=40&auth=true&epid=e20b0e3b-5afb-46a2-ad76-ecfc1d98a8f4&userActivity=%7B%22state%22%3A%22active%22%2C%22cv%22%3A%22sdNxXnHKqc0ZrkzbpRtrNw.0.8%22%7D&ccid=BdUs8YvgjeQ&cor_id=D49E105E-A1C4-4149-917F-60DE557832D5&con_num=1750222566073_3&connected=true&t=1750230809725",0,0,151
+1750230809731,343,/registrar/prod/V2/registrations-266,202,Accepted,,,true,,553,3426,0,0,https://teams.microsoft.com/registrar/prod/V2/registrations,343,0,89
+1750230809648,603,/calendar/dav/2k21it50%40kiot.ac.in/user/-264,207,unknown,,text,true,,1235,1395,0,0,https://calendar.google.com/calendar/dav/2k21it50%40kiot.ac.in/user/,602,0,96
+1750230810879,276,/api/v2/weather/en-US/11.009/76.945-268,200,OK,,text,true,,844,822,0,0,https://weatherkit.apple.com/api/v2/weather/en-US/11.009/76.945?timezone=Asia%2FKolkata&dataSets=forecastNextHour&deviceLanguages=en-US%2Cen-IN&clientMetadata=CgJJThoFZW4tVVNKAFABWAxgA4ABA5gBALoBBggACAEQAeIBDQoLHh0fIScoICUjJiTyAQJJToACAYgCAJACAZgCAQ,275,0,166
+1750230810897,657,/calendar/dav/2k21it50%40kiot.ac.in/user/-269,200,OK,,text,true,,591,486,0,0,https://calendar.google.com/calendar/dav/2k21it50%40kiot.ac.in/user/,657,0,114
+1750230811626,845,/calendar/dav/2k21it50%40kiot.ac.in/user/-270,207,unknown,,text,true,,1315,706,0,0,https://calendar.google.com/calendar/dav/2k21it50%40kiot.ac.in/user/,844,0,104
+1750230812534,858,/calendar/dav/c_classroombca5e62e%40group.calendar.google.com/user/-271,207,unknown,,text,true,,1144,869,0,0,https://calendar.google.com/calendar/dav/c_classroombca5e62e%40group.calendar.google.com/user/,857,0,122
+1750230813462,854,/calendar/dav/c_classroom115d4d51%40group.calendar.google.com/user/-272,207,unknown,,text,true,,1040,869,0,0,https://calendar.google.com/calendar/dav/c_classroom115d4d51%40group.calendar.google.com/user/,853,0,107
+0,0,gateway.icloud.com:443,,"Connection reset
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1406,0,0,0,null,0,0,0
+0,0,gateway.icloud.com:443,,"Connection reset
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1406,0,0,0,null,0,0,0
+0,0,gateway.icloud.com:443,,"Client requested protocol TLSv1 is not enabled or supported in server context
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1935,0,0,0,null,0,0,0
+1750230814383,884,/calendar/dav/c_classroom9adf12d3%40group.calendar.google.com/user/-273,207,unknown,,text,true,,1077,869,0,0,https://calendar.google.com/calendar/dav/c_classroom9adf12d3%40group.calendar.google.com/user/,883,0,97
+1750230815323,831,/calendar/dav/c_classroomdd434283%40group.calendar.google.com/user/-274,207,unknown,,text,true,,1143,869,0,0,https://calendar.google.com/calendar/dav/c_classroomdd434283%40group.calendar.google.com/user/,830,0,100
+1750230816213,870,/calendar/dav/c_classroom8f9f510c%40group.calendar.google.com/user/-275,207,unknown,,text,true,,1023,869,0,0,https://calendar.google.com/calendar/dav/c_classroom8f9f510c%40group.calendar.google.com/user/,870,0,90
+1750230817146,862,/calendar/dav/c_classroom233ce883%40group.calendar.google.com/user/-276,207,unknown,,text,true,,1105,869,0,0,https://calendar.google.com/calendar/dav/c_classroom233ce883%40group.calendar.google.com/user/,861,0,90
+1750230818067,860,/calendar/dav/cln2sqbechkm2rh3d1nmoqb4c5sk0pridtqn0bjm5phm2r35dpi62shectnmuprcckn66rrd%40virtual/user/-277,207,unknown,,text,true,,1197,904,0,0,https://calendar.google.com/calendar/dav/cln2sqbechkm2rh3d1nmoqb4c5sk0pridtqn0bjm5phm2r35dpi62shectnmuprcckn66rrd%40virtual/user/,859,0,101
+1750230818992,849,/calendar/dav/c_a9df8daefe1f84b8369f278ebdb9874f30598681af49dd9f9fb0eeab794320c7%40group.calendar.google.com/user/-278,207,unknown,,text,true,,1234,916,0,0,https://calendar.google.com/calendar/dav/c_a9df8daefe1f84b8369f278ebdb9874f30598681af49dd9f9fb0eeab794320c7%40group.calendar.google.com/user/,848,0,90
+1750230819930,1151,/calendar/dav/2k21it50%40kiot.ac.in/-279,207,unknown,,text,true,,1953,2809,0,0,https://calendar.google.com/calendar/dav/2k21it50%40kiot.ac.in/,1150,0,101
+0,0,p145-caldav.icloud.com:443,,"Remote host terminated the handshake
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1390,0,0,0,null,0,0,0
+0,0,p145-caldav.icloud.com:443,,"Remote host terminated the handshake
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1390,0,0,0,null,0,0,0
+0,0,p145-caldav.icloud.com:443,,"Client requested protocol TLSv1 is not enabled or supported in server context
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1935,0,0,0,null,0,0,0
+1750230821231,760,/calendar/dav/karansevvel%40gmail.com/user/-280,207,unknown,,text,true,,1180,1397,0,0,https://calendar.google.com/calendar/dav/karansevvel%40gmail.com/user/,760,0,127
+1750230822052,537,/calendar/dav/karansevvel%40gmail.com/user/-281,200,OK,,text,true,,591,488,0,0,https://calendar.google.com/calendar/dav/karansevvel%40gmail.com/user/,537,0,90
+1750230822627,597,/calendar/dav/karansevvel%40gmail.com/user/-283,207,unknown,,text,true,,1388,708,0,0,https://calendar.google.com/calendar/dav/karansevvel%40gmail.com/user/,595,0,83
+1750230822532,1187,/register?returnurl=%2F-282,302,Found,,,true,,2641,1994,0,0,https://demo.nopcommerce.com/register?returnurl=%2F,1187,0,130
+1750230823284,563,/calendar/dav/clfj4nr5dohnepb5ddn7ara0ctp6utbg5pr2sor1dhimsp31e8n6errfctm6abj3dtmg%40virtual/user/-284,207,unknown,,text,true,,1275,900,0,0,https://calendar.google.com/calendar/dav/clfj4nr5dohnepb5ddn7ara0ctp6utbg5pr2sor1dhimsp31e8n6errfctm6abj3dtmg%40virtual/user/,562,0,90
+1750230823901,855,/calendar/dav/classroom113273551616283336482%40group.calendar.google.com/user/-286,207,unknown,,text,true,,1265,880,0,0,https://calendar.google.com/calendar/dav/classroom113273551616283336482%40group.calendar.google.com/user/,854,0,93
+1750230823741,1159,/registerresult/1-285,200,OK,,text,true,,6833,2166,0,0,https://demo.nopcommerce.com/registerresult/1?returnUrl=%2F,1159,0,88
+1750230824943,157,/cdn-cgi/rum?-289,204,No Content,,,true,,377,3138,0,0,https://demo.nopcommerce.com/cdn-cgi/rum?,0,0,78
+1750230824966,143,/cdn-cgi/rum?-290,204,No Content,,,true,,377,3743,0,0,https://demo.nopcommerce.com/cdn-cgi/rum?,0,0,67
+1750230824975,165,/cdn-cgi/rum?-291,204,No Content,,,true,,377,3759,0,0,https://demo.nopcommerce.com/cdn-cgi/rum?,0,0,82
+1750230824946,279,/g/collect?v=2&tid=G-SCT41TW89V&gtm=45je56g0v9103325025za200&_p=1750230795306&gcd=13l3l3l3l1l1&npa=0&dma=0&tag_exp=101509157~103116026~103200004~103233427~103351869~103351871~104617979~104617981~104684204~104684207~104718208~104736445~104736447~104757984&cid=841818968.1750230425&ul=en-us&sr=1470x956&frm=0&pscdl=noapi&_eu=AEEAAAQ&_s=3&sid=1750230425&sct=1&seg=1&dl=https%3A%2F%2Fdemo.nopcommerce.com%2Fregister%3FreturnUrl%3D%252F&dr=https%3A%2F%2Fdemo.nopcommerce.com%2F&dt=nopCommerce%20demo%20store.%20Register&en=form_submit&ep.form_id=&ep.form_name=&ep.form_destination=https%3A%2F%2Fdemo.nopcommerce.com%2Fregister%3Freturnurl%3D%252F&epn.form_length=12&_et=20784&tfd=30762-288,204,No Content,,text,true,,831,1173,0,0,https://www.google-analytics.com/g/collect?v=2&tid=G-SCT41TW89V&gtm=45je56g0v9103325025za200&_p=1750230795306&gcd=13l3l3l3l1l1&npa=0&dma=0&tag_exp=101509157~103116026~103200004~103233427~103351869~103351871~104617979~104617981~104684204~104684207~104718208~104736445~104736447~104757984&cid=841818968.1750230425&ul=en-us&sr=1470x956&frm=0&pscdl=noapi&_eu=AEEAAAQ&_s=3&sid=1750230425&sct=1&seg=1&dl=https%3A%2F%2Fdemo.nopcommerce.com%2Fregister%3FreturnUrl%3D%252F&dr=https%3A%2F%2Fdemo.nopcommerce.com%2F&dt=nopCommerce%20demo%20store.%20Register&en=form_submit&ep.form_id=&ep.form_name=&ep.form_destination=https%3A%2F%2Fdemo.nopcommerce.com%2Fregister%3Freturnurl%3D%252F&epn.form_length=12&_et=20784&tfd=30762,0,0,196
+1750230824814,550,/calendar/dav/cln2sor84dk6ur39chgnig37e9nnas1eeon66obccln68obi5pjmurr7dhiisorfdk%40virtual/user/-287,207,unknown,,text,true,,1167,898,0,0,https://calendar.google.com/calendar/dav/cln2sor84dk6ur39chgnig37e9nnas1eeon66obccln68obi5pjmurr7dhiisorfdk%40virtual/user/,550,0,88
+1750230825402,890,/calendar/dav/classroom107751958976682938547%40group.calendar.google.com/user/-292,207,unknown,,text,true,,1154,880,0,0,https://calendar.google.com/calendar/dav/classroom107751958976682938547%40group.calendar.google.com/user/,889,0,104
+1750230826330,887,/calendar/dav/classroom105308577973103672663%40group.calendar.google.com/user/-293,207,unknown,,text,true,,1204,880,0,0,https://calendar.google.com/calendar/dav/classroom105308577973103672663%40group.calendar.google.com/user/,886,0,121
+1750230827320,147,/cdn-cgi/rum?-295,204,No Content,,,true,,377,3201,0,0,https://demo.nopcommerce.com/cdn-cgi/rum?,0,0,86
+1750230827283,853,/calendar/dav/fr67mhd9t0nm88ceoecou7ntsjm9jvgd%40import.calendar.google.com/user/-294,207,unknown,,text,true,,1114,883,0,0,https://calendar.google.com/calendar/dav/fr67mhd9t0nm88ceoecou7ntsjm9jvgd%40import.calendar.google.com/user/,853,0,115
+1750230828192,868,/calendar/dav/classroom100326272644660697053%40group.calendar.google.com/user/-296,207,unknown,,text,true,,1085,880,0,0,https://calendar.google.com/calendar/dav/classroom100326272644660697053%40group.calendar.google.com/user/,867,0,81
+1750230829130,851,/calendar/dav/karansevvel%40gmail.com/-297,207,unknown,,text,true,,1997,2811,0,0,https://calendar.google.com/calendar/dav/karansevvel%40gmail.com/,850,0,79
+0,0,gateway.icloud.com:443,,"Connection reset
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1406,0,0,0,null,0,0,0
+0,0,gateway.icloud.com:443,,"Connection reset
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1406,0,0,0,null,0,0,0
+0,0,gateway.icloud.com:443,,"Client requested protocol TLSv1 is not enabled or supported in server context
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1935,0,0,0,null,0,0,0
+1750230880308,1282,/OneCollector/1.0/?cors=true&content-type=application/x-json-stream&content-encoding=gzip-298,200,OK,,,true,,608,747,0,0,https://teams.events.data.microsoft.com/OneCollector/1.0/?cors=true&content-type=application/x-json-stream&content-encoding=gzip,1282,0,996
+1750230881606,1026,/OneCollector/1.0/?cors=true&content-type=application/x-json-stream&content-encoding=gzip-299,400,Exception while decoding the payload,,text,false,,577,7462,0,0,https://teams.events.data.microsoft.com/OneCollector/1.0/?cors=true&content-type=application/x-json-stream&content-encoding=gzip,1025,0,514
+1750231369669,2197,/index.php-300,200,OK,,text,true,,6890,535,0,0,https://opencart.abstracta.us/index.php?route=common%2Fhome,2196,0,1573
+1750231371970,1124,/mod_pagespeed_beacon?url=https%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Dcommon%252Fhome-301,204,No Content,,,true,,178,837,0,0,https://opencart.abstracta.us/mod_pagespeed_beacon?url=https%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Dcommon%252Fhome,0,0,813
+1750231371975,1119,/mod_pagespeed_beacon?url=https%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Dcommon%252Fhome-302,204,No Content,,,true,,178,837,0,0,https://opencart.abstracta.us/mod_pagespeed_beacon?url=https%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Dcommon%252Fhome,0,0,808
+1750231378354,2104,/index.php-303,200,OK,,text,true,,7055,615,0,0,https://opencart.abstracta.us/index.php?route=account%2Fregister,2102,0,1490
+1750231380510,1032,/index.php-304,200,OK,,text,true,,456,664,0,0,https://opencart.abstracta.us/index.php?route=account%2Fregister%2Fcustomfield&customer_group_id=1,1031,0,764
+1750231380532,1057,/mod_pagespeed_beacon?url=https%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Daccount%252Fregister-305,204,No Content,,,true,,178,771,0,0,https://opencart.abstracta.us/mod_pagespeed_beacon?url=https%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Daccount%252Fregister,0,0,799
+0,0,gateway.icloud.com:443,,"Connection reset
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1406,0,0,0,null,0,0,0
+0,0,gateway.icloud.com:443,,"Connection reset
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1406,0,0,0,null,0,0,0
+0,0,gateway.icloud.com:443,,"Client requested protocol TLSv1 is not enabled or supported in server context
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1935,0,0,0,null,0,0,0
+0,0,gs-loc.apple.com:443,,"Connection reset
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1406,0,0,0,null,0,0,0
+1750231403595,2104,/index.php?route=account/register-306,200,OK,,text,true,,5328,1752,0,0,https://opencart.abstracta.us/index.php?route=account/register,2103,0,1747
+0,0,gateway.icloud.com:443,,"Connection reset
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1406,0,0,0,null,0,0,0
+0,0,gateway.icloud.com:443,,"Connection reset
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1406,0,0,0,null,0,0,0
+0,0,gateway.icloud.com:443,,"Client requested protocol TLSv1 is not enabled or supported in server context
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1935,0,0,0,null,0,0,0
+1750231405738,2370,/index.php-307,200,OK,,text,true,,456,664,0,0,https://opencart.abstracta.us/index.php?route=account%2Fregister%2Fcustomfield&customer_group_id=1,2369,0,1887
+1750231411029,2846,/index.php?route=account/register-308,302,Found,,text,true,,521,1720,0,0,https://opencart.abstracta.us/index.php?route=account/register,2846,0,2530
+1750231413900,1586,/index.php-309,200,OK,,text,true,,5902,618,0,0,https://opencart.abstracta.us/index.php?route=account%2Fsuccess,1585,0,965
+1750231415540,1474,/mod_pagespeed_beacon?url=https%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Daccount%252Fsuccess-310,204,No Content,,,true,,178,769,0,0,https://opencart.abstracta.us/mod_pagespeed_beacon?url=https%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Daccount%252Fsuccess,0,0,863
+0,0,gateway.icloud.com:443,,"Connection reset
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1406,0,0,0,null,0,0,0
+0,0,gateway.icloud.com:443,,"Connection reset
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1406,0,0,0,null,0,0,0
+0,0,gateway.icloud.com:443,,"Client requested protocol TLSv1 is not enabled or supported in server context
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1935,0,0,0,null,0,0,0
+1750231427038,2268,/index.php-311,302,Found,,text,true,,522,617,0,0,https://opencart.abstracta.us/index.php?route=account%2Flogout,2268,0,1676
+1750231429319,1794,/index.php-312,200,OK,,text,true,,5748,617,0,0,https://opencart.abstracta.us/index.php?route=account%2Flogout,1793,0,1489
+1750231431161,1837,/mod_pagespeed_beacon?url=https%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Daccount%252Flogout-313,204,No Content,,,true,,178,767,0,0,https://opencart.abstracta.us/mod_pagespeed_beacon?url=https%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Daccount%252Flogout,0,0,1530
+0,0,gateway.icloud.com:443,,"Connection reset
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1406,0,0,0,null,0,0,0
+0,0,gateway.icloud.com:443,,"Connection reset
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1406,0,0,0,null,0,0,0
+0,0,gateway.icloud.com:443,,"Client requested protocol TLSv1 is not enabled or supported in server context
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1935,0,0,0,null,0,0,0
+1750231447657,1797,/index.php-314,200,OK,,text,true,,5934,615,0,0,https://opencart.abstracta.us/index.php?route=account%2Flogin,1796,0,1304
+1750231449504,1610,/mod_pagespeed_beacon?url=https%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Daccount%252Flogin-315,204,No Content,,,true,,178,765,0,0,https://opencart.abstracta.us/mod_pagespeed_beacon?url=https%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Daccount%252Flogin,0,0,1313
+1750231452176,1644,/index.php?route=account/login-316,302,Found,,text,true,,523,1006,0,0,https://opencart.abstracta.us/index.php?route=account/login,1644,0,1305
+1750231453845,1925,/index.php-317,200,OK,,text,true,,5758,616,0,0,https://opencart.abstracta.us/index.php?route=account%2Faccount,1924,0,1575
+1750231455831,1425,/mod_pagespeed_beacon?url=https%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Daccount%252Faccount-318,204,No Content,,,true,,178,769,0,0,https://opencart.abstracta.us/mod_pagespeed_beacon?url=https%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Daccount%252Faccount,0,0,1120
+0,0,gateway.icloud.com:443,,"Connection reset
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1406,0,0,0,null,0,0,0
+0,0,gateway.icloud.com:443,,"Connection reset
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1406,0,0,0,null,0,0,0
+0,0,gateway.icloud.com:443,,"Client requested protocol TLSv1 is not enabled or supported in server context
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1935,0,0,0,null,0,0,0
+1750231465174,1611,/index.php-319,302,Found,,text,true,,522,617,0,0,https://opencart.abstracta.us/index.php?route=account%2Flogout,1611,0,1215
+1750231466799,2132,/index.php-320,200,OK,,text,true,,5749,617,0,0,https://opencart.abstracta.us/index.php?route=account%2Flogout,2131,0,1453
+1750231468984,1457,/mod_pagespeed_beacon?url=https%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Daccount%252Flogout-321,204,No Content,,,true,,178,767,0,0,https://opencart.abstracta.us/mod_pagespeed_beacon?url=https%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Daccount%252Flogout,0,0,1174
